@@ -17,8 +17,10 @@ datasource db {
 model Question {
   id           Int      @id @default(autoincrement())
   question     String   @db.Text 
+  link         String?
   type         String
   difficulty   String 
+  answer       String   @db.Text
 }
 
 
