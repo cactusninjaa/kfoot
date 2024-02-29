@@ -8,3 +8,18 @@ const getQuestions = (req, res) => {
     .catch((error) => res.json(error))
 }
 
+const getQuestion = (req, res) => {
+    prisma.question.findUnique({
+        where: {
+            id : Number(req.params.id)
+        }
+    })
+
+    .then((data) => res.json(data))
+    .catch((error) => res.json(error))
+}
+
+
+
+export { getQuestions, getQuestion }
+
