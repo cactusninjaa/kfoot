@@ -1,0 +1,143 @@
+id,question,answer,type,difficulty,link
+1,À quel club appartient ce logo ?,Manchester City,recognize-logo,easy,recognize/logo/manchestercity.png
+2,À quel club appartient ce logo ?,Bayern Munich,recognize-logo,easy,recognize/logo/bayernmunich.png
+3,À quel club appartient ce logo ?,Real Madrid,recognize-logo,easy,recognize/logo/realmadrid.png
+4,À quel club appartient ce logo ?,Paris Saint Germain,recognize-logo,easy,recognize/logo/psg.png
+5,À quel club appartient ce logo ?,Inter Milan,recognize-logo,easy,recognize/logo/intermilan.png
+6,À quel club appartient ce logo ?,Liverpool,recognize-logo,easy,recognize/logo/liverpool.png
+7,À quel club appartient ce logo ?,Chelsea,recognize-logo,easy,recognize/logo/chelsea.png
+8,À quel club appartient ce logo ?,Juventus,recognize-logo,easy,recognize/logo/juventus.png
+9,À quel club appartient ce logo ?,Manchester United,recognize-logo,easy,recognize/logo/manchesterunited.png
+10,À quel club appartient ce logo ?,Arsenal,recognize-logo,easy,recognize/logo/arsenal.png
+11,À quel club appartient ce logo ?,Borussia Dortmund,recognize-logo,easy,recognize/logo/borussiadortmund.png
+12,À quel club appartient ce logo ?,FC Barcelone,recognize-logo,easy,recognize/logo/fcbarcelone.png
+13,À quel club appartient ce logo ?,Seville,recognize-logo,easy,recognize/logo/seville.png
+14,À quel club appartient ce logo ?,Atlético de madrird,recognize-logo,easy,recognize/logo/atleticodemadrid.png
+15,À quel club appartient ce logo ?,AS Roma,recognize-logo,medium,recognize/logo/asroma.png
+16,À quel club appartient ce logo ?,Rasen Ballsport Leipzig,recognize-logo,medium,recognize/logo/rasenballsportleipzig.png
+17,À quel club appartient ce logo ?,Villareal,recognize-logo,medium,recognize/logo/villareal.png
+18,À quel club appartient ce logo ?,FC Porto,recognize-logo,medium,recognize/logo/fcporto.png
+19,À quel club appartient ce logo ?,West Ham United,recognize-logo,medium,recognize/logo/westhamunited.png
+20,À quel club appartient ce logo ?,Atalanta,recognize-logo,medium,recognize/logo/atalanta.png
+21,À quel club appartient ce logo ?,Shakhtar Donetsk,recognize-logo,medium,recognize/logo/shakhtardonetsk.png
+22,À quel club appartient ce logo ?,Glasgow Rangers,recognize-logo,medium,recognize/logo/glasgowrangers.png
+23,À quel club appartient ce logo ?,Feyenoord Rotterdam,recognize-logo,medium,recognize/logo/feyenoordrotterdam.png
+24,À quel club appartient ce logo ?,SK Slavia Prague,recognize-logo,medium,recognize/logo/skslaviaprague.png
+25,À quel club appartient ce logo ?,Club Brugge KV,recognize-logo,medium,recognize/logo/clubbruggekv.png
+26,À quel club appartient ce logo ?,FC Bâle ,recognize-logo,medium,recognize/logo/bale.png
+27,À quel club appartient ce logo ?,La Gantoise,recognize-logo,medium,recognize/logo/lagantoise.png
+28,À quel club appartient ce logo ?,Sporting CP,recognize-logo,medium,recognize/logo/sportingcp.png
+29,À quel club appartient ce logo ?,Étoile Rouge de Belgrade,recognize-logo,medium,recognize/logo/etoilerougedebelgrade.png
+30,À quel club appartient ce logo ?,AEK Athènes,recognize-logo,hard,recognize/logo/aekathenes.png
+31,À quel club appartient ce logo ?,Besiktas JK,recognize-logo,hard,recognize/logo/besiktasjk.png
+32,À quel club appartient ce logo ?,Sparta Prague,recognize-logo,hard,recognize/logo/spartaprague.png
+33,À quel club appartient ce logo ?,OGC Nice,recognize-logo,hard,recognize/logo/ogcnice.png
+34,À quel club appartient ce logo ?,Wolverhampton Wanderers,recognize-logo,hard,recognize/logo/wolverhamptonwanderers.png
+35,À quel club appartient ce logo ?,KRC Genk,recognize-logo,hard,recognize/logo/krcgenk.png
+36,À quel club appartient ce logo ?,Lokomotiv Moscou,recognize-logo,hard,recognize/logo/lokomotivmoscou.png
+37,À quel club appartient ce logo ?,FC Sheriff Tiraspol,recognize-logo,hard,recognize/logo/fcsherifftiraspol.png
+38,À quel club appartient ce logo ?,Cologne,recognize-logo,hard,recognize/logo/cologne.png
+39,À quel club appartient ce logo ?,FC Getafe,recognize-logo,hard,recognize/logo/fcgetafe.png
+40,À quel club appartient ce logo ?,Trabzonspor,recognize-logo,hard,recognize/logo/trabzonspor.png
+41,À quel club appartient ce logo ?,FC Viktoria Plzen ,recognize-logo,hard,recognize/logo/fcviktoriaplzen.png
+42,À quel club appartient ce logo ?,Stade de Reims,recognize-logo,hard,recognize/logo/stadedereims.png
+43,À quel club appartient ce logo ?,FC Zürich,recognize-logo,hard,recognize/logo/fczurich.png
+44,À quel club appartient ce logo ?,FK Sarajevo,recognize-logo,hard,recognize/logo/fksarajevo.png
+45,Quel est le nom de ce stade ?,Wembley stade de Tottenham,recognize-stadium,easy,recognize/stadium/wembley.jpeg
+46,Quel est le nom de ce stade ?,Allianz Arena stade du Bayern Munich,recognize-stadium,easy,recognize/stadium/allianzarena.jpeg
+47,Quel est le nom de ce stade ?,Santiago Bernabéu stade du Réal Madrid,recognize-stadium,easy,recognize/stadium/barnabeu.jpeg
+48,Quel est le nom de ce stade ?,Camp Nou stade du FC Barcelone,recognize-stadium,easy,recognize/stadium/campnou.jpeg
+49,Quel est le nom de ce stade ?,San Siro stade de l'Inter Milan et de l'AC Milan,recognize-stadium,easy,recognize/stadium/sansiro.jpeg
+50,Quel est le nom de ce stade ?,Vélodrome stade de l'olympique de Marseille,recognize-stadium,easy,recognize/stadium/velodrome.jpeg
+51,Quel est le nom de ce stade ?,Parc Des Princes stade du Paris Saint Germain,recognize-stadium,easy,recognize/stadium/parcdesprinces.jpeg
+52,Quel est le nom de ce stade ?,Bollaert stade du RC Lens,recognize-stadium,easy,recognize/stadium/bollaert.jpeg
+53,Quel est le nom de ce stade ?,Old Trafford stade de Manchester United,recognize-stadium,easy,recognize/stadium/oldtrafford.jpeg
+54,Quel est le nom de ce stade ?,Geoffroy Guichard stade de l'AS Saint Étienne,recognize-stadium,easy,recognize/stadium/geoffroyguichard.jpeg
+55,Quel est le nom de ce stade ?,Anfield stade de Liverpool,recognize-stadium,medium,recognize/stadium/anfield.jpeg
+56,Quel est le nom de ce stade ?,Emirates Stadium stade d'Arsenal,recognize-stadium,medium,recognize/stadium/emiratesstadium.jpeg
+57,Quel est le nom de ce stade ?,Etihad Stadium stade de Manchester City,recognize-stadium,medium,recognize/stadium/etihadstadium.jpeg
+58,Quel est le nom de ce stade ?,Allianz Stadium stade de la Juventus de Turin,recognize-stadium,medium,recognize/stadium/allianzstadium.jpeg
+59,Quel est le nom de ce stade ?,Johan Cruyff Arena stade de l'Ajax d'Amsterdam,recognize-stadium,medium,recognize/stadium/johancruyff.jpeg
+60,Quel est le nom de ce stade ?,Civitas Metropolitano stade de l'Atlético de Madrid,recognize-stadium,medium,recognize/stadium/civitasmetropolitano.jpeg
+61,Quel est le nom de ce stade ?,Groupama Stadium stade de l'olympique lyonnais,recognize-stadium,medium,recognize/stadium/groupamastadium.jpeg
+62,Quel est le nom de ce stade ?,Ibrox Stadium stade de Glasgow Rangers,recognize-stadium,medium,recognize/stadium/ibroxstadium.jpeg
+63,Quel est le nom de ce stade ?,Stamford Bridge stade de Chelsea,recognize-stadium,medium,recognize/stadium/stamfordbridge.jpeg
+64,Quel est le nom de ce stade ?,Estádio da Luz stade du Benfica,recognize-stadium,medium,recognize/stadium/estadiodaluz.jpeg
+65,Quel est le nom de ce stade ?,Stade du Dragon stade du FC Porto,recognize-stadium,hard,recognize/stadium/stadedudragon.jpeg
+66,Quel est le nom de ce stade ?,Allianz Riviera stade de l'OGC Nice,recognize-stadium,hard,recognize/stadium/allianzriviera.jpeg
+67,Quel est le nom de ce stade ?,Signal Iduna Park stade du Borussia Dortmund,recognize-stadium,hard,recognize/stadium/signalidunapark.jpeg
+68,Quel est le nom de ce stade ?,BayArena stade du Bayer Leverkusen,recognize-stadium,hard,recognize/stadium/bayarena.jpeg
+69,Quel est le nom de ce stade ?,Stadio della Roma stade de l'AS Roma et de la Lazio,recognize-stadium,hard,recognize/stadium/stadiodellaroma.jpeg
+70,Quel est le nom de ce stade ?,Roazhon Park stade du Stade Rennais,recognize-stadium,hard,recognize/stadium/roazhonpark.jpeg
+71,Quel est le nom de ce stade ?,José Alavade stade du Sporting CP,recognize-stadium,hard,recognize/stadium/josealavade.jpeg
+72,Quel est le nom de ce stade ?,Matmut Atlantique stade des Girondins de Bordeau,recognize-stadium,hard,recognize/stadium/matmutatlantique.jpeg
+73,Quel est le nom de ce stade ?,Maracaña stade de Flamengo et Fluminense,recognize-stadium,hard,recognize/stadium/maracana.jpeg
+74,Quel est le nom de ce stade ?,Charléty stade du Paris FC,recognize-stadium,hard,recognize/stadium/charlety.jpeg
+75,,,,,
+76,,,,,
+77,,,,,
+78,,,,,
+79,,,,,
+80,,,,,
+81,,,,,
+82,,,,,
+83,,,,,
+84,,,,,
+85,,,,,
+86,,,,,
+87,,,,,
+88,,,,,
+89,,,,,
+90,,,,,
+91,,,,,
+92,,,,,
+93,,,,,
+94,,,,,
+95,,,,,
+96,,,,,
+97,,,,,
+98,,,,,
+99,,,,,
+100,,,,,
+101,,,,,
+102,,,,,
+103,,,,,
+104,,,,,
+105,,,,,
+106,,,,,
+107,,,,,
+108,,,,,
+109,,,,,
+110,,,,,
+111,,,,,
+112,,,,,
+113,,,,,
+114,,,,,
+115,,,,,
+116,,,,,
+117,,,,,
+118,,,,,
+119,,,,,
+120,,,,,
+121,,,,,
+122,,,,,
+123,,,,,
+124,,,,,
+125,,,,,
+126,,,,,
+127,,,,,
+128,,,,,
+129,,,,,
+130,,,,,
+131,,,,,
+132,,,,,
+133,,,,,
+134,,,,,
+135,,,,,
+136,,,,,
+137,,,,,
+138,,,,,
+139,,,,,
+140,,,,,
+141,,,,,
+142,,,,,
