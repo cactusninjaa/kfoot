@@ -4,13 +4,12 @@ import { PrismaClient } from '@prisma/client';
 
 const prisma = new PrismaClient();
 
-fs.createReadStream('Question.csv')
+fs.createReadStream('question.csv')
   .pipe(csv())
   .on('data', async (row) => {
     try {
       await prisma.question.create({
         data: {
-          id: Number(row.id),
           question : row.question,
           link : row.link,
           type: row.type,
