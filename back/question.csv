@@ -1,163 +1,163 @@
 question,answer,type,difficulty,link
-À quel club appartient ce logo ?,Manchester City,recognize-logo,easy,./src/image/logo/manchestercity.png
-À quel club appartient ce logo ?,Bayern Munich,recognize-logo,easy,./src/image/logo/bayernmunich.png
-À quel club appartient ce logo ?,Real Madrid,recognize-logo,easy,./src/image/logo/realmadrid.png
-À quel club appartient ce logo ?,Paris Saint Germain,recognize-logo,easy,./src/image/logo/psg.png
-À quel club appartient ce logo ?,Inter Milan,recognize-logo,easy,./src/image/logo/intermilan.png
-À quel club appartient ce logo ?,Liverpool,recognize-logo,easy,./src/image/logo/liverpool.png
-À quel club appartient ce logo ?,Chelsea,recognize-logo,easy,./src/image/logo/chelsea.png
-À quel club appartient ce logo ?,Juventus,recognize-logo,easy,./src/image/logo/juventus.png
-À quel club appartient ce logo ?,Manchester United,recognize-logo,easy,./src/image/logo/manchesterunited.png
-À quel club appartient ce logo ?,Arsenal,recognize-logo,easy,./src/image/logo/arsenal.png
-À quel club appartient ce logo ?,Borussia Dortmund,recognize-logo,easy,./src/image/logo/borussiadortmund.png
-À quel club appartient ce logo ?,FC Barcelone,recognize-logo,easy,./src/image/logo/fcbarcelone.png
-À quel club appartient ce logo ?,Seville,recognize-logo,easy,./src/image/logo/seville.png
-À quel club appartient ce logo ?,Atlético de madrird,recognize-logo,easy,./src/image/logo/atleticodemadrid.png
-À quel club appartient ce logo ?,AS Roma,recognize-logo,medium,./src/image/logo/asroma.png
-À quel club appartient ce logo ?,Rasen Ballsport Leipzig,recognize-logo,medium,./src/image/logo/rasenballsportleipzig.png
-À quel club appartient ce logo ?,Villareal,recognize-logo,medium,./src/image/logo/villareal.png
-À quel club appartient ce logo ?,FC Porto,recognize-logo,medium,./src/image/logo/fcporto.png
-À quel club appartient ce logo ?,West Ham United,recognize-logo,medium,./src/image/logo/westhamunited.png
-À quel club appartient ce logo ?,Atalanta,recognize-logo,medium,./src/image/logo/atalanta.png
-À quel club appartient ce logo ?,Shakhtar Donetsk,recognize-logo,medium,./src/image/logo/shakhtardonetsk.png
-À quel club appartient ce logo ?,Glasgow Rangers,recognize-logo,medium,./src/image/logo/glasgowrangers.png
-À quel club appartient ce logo ?,Feyenoord Rotterdam,recognize-logo,medium,./src/image/logo/feyenoordrotterdam.png
-À quel club appartient ce logo ?,SK Slavia Prague,recognize-logo,medium,./src/image/logo/skslaviaprague.png
-À quel club appartient ce logo ?,Club Brugge KV,recognize-logo,medium,./src/image/logo/clubbruggekv.png
-À quel club appartient ce logo ?,FC Bâle ,recognize-logo,medium,./src/image/logo/bale.png
-À quel club appartient ce logo ?,La Gantoise,recognize-logo,medium,./src/image/logo/lagantoise.png
-À quel club appartient ce logo ?,Sporting CP,recognize-logo,medium,./src/image/logo/sportingcp.png
-À quel club appartient ce logo ?,Étoile Rouge de Belgrade,recognize-logo,medium,./src/image/logo/etoilerougedebelgrade.png
-À quel club appartient ce logo ?,AEK Athènes,recognize-logo,hard,./src/image/logo/aekathenes.png
-À quel club appartient ce logo ?,Besiktas JK,recognize-logo,hard,./src/image/logo/besiktasjk.png
-À quel club appartient ce logo ?,Sparta Prague,recognize-logo,hard,./src/image/logo/spartaprague.png
-À quel club appartient ce logo ?,OGC Nice,recognize-logo,hard,./src/image/logo/ogcnice.png
-À quel club appartient ce logo ?,Wolverhampton Wanderers,recognize-logo,hard,./src/image/logo/wolverhamptonwanderers.png
-À quel club appartient ce logo ?,KRC Genk,recognize-logo,hard,./src/image/logo/krcgenk.png
-À quel club appartient ce logo ?,Lokomotiv Moscou,recognize-logo,hard,./src/image/logo/lokomotivmoscou.png
-À quel club appartient ce logo ?,FC Sheriff Tiraspol,recognize-logo,hard,./src/image/logo/fcsherifftiraspol.png
-À quel club appartient ce logo ?,Cologne,recognize-logo,hard,./src/image/logo/cologne.png
-À quel club appartient ce logo ?,FC Getafe,recognize-logo,hard,./src/image/logo/fcgetafe.png
-À quel club appartient ce logo ?,Trabzonspor,recognize-logo,hard,./src/image/logo/trabzonspor.png
-À quel club appartient ce logo ?,FC Viktoria Plzen ,recognize-logo,hard,./src/image/logo/fcviktoriaplzen.png
-À quel club appartient ce logo ?,Stade de Reims,recognize-logo,hard,./src/image/logo/stadedereims.png
-À quel club appartient ce logo ?,FC Zürich,recognize-logo,hard,./src/image/logo/fczurich.png
-À quel club appartient ce logo ?,FK Sarajevo,recognize-logo,hard,./src/image/logo/fksarajevo.png
-Quel est le nom de ce stade ?,Wembley stade de Tottenham,recognize-stadium,easy,./src/image/stadium/wembley.jpeg
-Quel est le nom de ce stade ?,Allianz Arena stade du Bayern Munich,recognize-stadium,easy,./src/image/stadium/allianzarena.jpeg
-Quel est le nom de ce stade ?,Santiago Bernabéu stade du Réal Madrid,recognize-stadium,easy,./src/image/stadium/barnabeu.jpeg
-Quel est le nom de ce stade ?,Camp Nou stade du FC Barcelone,recognize-stadium,easy,./src/image/stadium/campnou.jpeg
-Quel est le nom de ce stade ?,San Siro stade de l'Inter Milan et de l'AC Milan,recognize-stadium,easy,./src/image/stadium/sansiro.jpeg
-Quel est le nom de ce stade ?,Vélodrome stade de l'olympique de Marseille,recognize-stadium,easy,./src/image/stadium/velodrome.jpeg
-Quel est le nom de ce stade ?,Parc Des Princes stade du Paris Saint Germain,recognize-stadium,easy,./src/image/stadium/parcdesprinces.jpeg
-Quel est le nom de ce stade ?,Bollaert stade du RC Lens,recognize-stadium,easy,./src/image/stadium/bollaert.jpeg
-Quel est le nom de ce stade ?,Old Trafford stade de Manchester United,recognize-stadium,easy,./src/image/stadium/oldtrafford.jpeg
-Quel est le nom de ce stade ?,Geoffroy Guichard stade de l'AS Saint Étienne,recognize-stadium,easy,./src/image/stadium/geoffroyguichard.jpeg
-Quel est le nom de ce stade ?,Anfield stade de Liverpool,recognize-stadium,medium,./src/image/stadium/anfield.jpeg
-Quel est le nom de ce stade ?,Emirates Stadium stade d'Arsenal,recognize-stadium,medium,./src/image/stadium/emiratesstadium.jpeg
-Quel est le nom de ce stade ?,Etihad Stadium stade de Manchester City,recognize-stadium,medium,./src/image/stadium/etihadstadium.jpeg
-Quel est le nom de ce stade ?,Allianz Stadium stade de la Juventus de Turin,recognize-stadium,medium,./src/image/stadium/allianzstadium.jpeg
-Quel est le nom de ce stade ?,Johan Cruyff Arena stade de l'Ajax d'Amsterdam,recognize-stadium,medium,./src/image/stadium/johancruyff.jpeg
-Quel est le nom de ce stade ?,Civitas Metropolitano stade de l'Atlético de Madrid,recognize-stadium,medium,./src/image/stadium/civitasmetropolitano.jpeg
-Quel est le nom de ce stade ?,Groupama Stadium stade de l'olympique lyonnais,recognize-stadium,medium,./src/image/stadium/groupamastadium.jpeg
-Quel est le nom de ce stade ?,Ibrox Stadium stade de Glasgow Rangers,recognize-stadium,medium,./src/image/stadium/ibroxstadium.jpeg
-Quel est le nom de ce stade ?,Stamford Bridge stade de Chelsea,recognize-stadium,medium,./src/image/stadium/stamfordbridge.jpeg
-Quel est le nom de ce stade ?,Estádio da Luz stade du Benfica,recognize-stadium,medium,./src/image/stadium/estadiodaluz.jpeg
-Quel est le nom de ce stade ?,Stade du Dragon stade du FC Porto,recognize-stadium,hard,./src/image/stadium/stadedudragon.jpeg
-Quel est le nom de ce stade ?,Allianz Riviera stade de l'OGC Nice,recognize-stadium,hard,./src/image/stadium/allianzriviera.jpeg
-Quel est le nom de ce stade ?,Signal Iduna Park stade du Borussia Dortmund,recognize-stadium,hard,./src/image/stadium/signalidunapark.jpeg
-Quel est le nom de ce stade ?,BayArena stade du Bayer Leverkusen,recognize-stadium,hard,./src/image/stadium/bayarena.jpeg
-Quel est le nom de ce stade ?,Stadio della Roma stade de l'AS Roma et de la Lazio,recognize-stadium,hard,./src/image/stadium/stadiodellaroma.jpeg
-Quel est le nom de ce stade ?,Roazhon Park stade du Stade Rennais,recognize-stadium,hard,./src/image/stadium/roazhonpark.jpeg
-Quel est le nom de ce stade ?,José Alavade stade du Sporting CP,recognize-stadium,hard,./src/image/stadium/josealavade.jpeg
-Quel est le nom de ce stade ?,Matmut Atlantique stade des Girondins de Bordeau,recognize-stadium,hard,./src/image/stadium/matmutatlantique.jpeg
-Quel est le nom de ce stade ?,Maracaña stade de Flamengo et Fluminense,recognize-stadium,hard,./src/image/stadium/maracana.jpeg
-Quel est le nom de ce stade ?,Charléty stade du Paris FC,recognize-stadium,hard,./src/image/stadium/charlety.jpeg
-Quel est le nom de ce trophée ?,Coupe du monde,recognize-trophy,easy,./src/image/trophy/coupedumonde.jpeg
-Quel est le nom de ce trophée ?,Ligue 1,recognize-trophy,easy,./src/image/trophy/ligue1.jpeg
-Quel est le nom de ce trophée ?,Ligue des champions,recognize-trophy,easy,./src/image/trophy/liguedeschampions.jpeg
-Quel est le nom de ce trophée ?,Europa league,recognize-trophy,easy,./src/image/trophy/europaleague.jpeg
-Quel est le nom de ce trophée ?,Euro ,recognize-trophy,easy,./src/image/trophy/euro.jpeg
-Quel est le nom de ce trophée ?,Coupe d'afrique des nations,recognize-trophy,easy,./src/image/trophy/can.jpeg
-Quel est le nom de ce trophée ?,Premier league,recognize-trophy,easy,./src/image/trophy/premierleague.jpeg
-Quel est le nom de ce trophée ?,Liga,recognize-trophy,easy,./src/image/trophy/liga.jpeg
-Quel est le nom de ce trophée ?,Bundesliga,recognize-trophy,easy,./src/image/trophy/bundesliga.jpeg
-Quel est le nom de ce trophée ?,Serie A,recognize-trophy,easy,./src/image/trophy/seriea.jpeg
-Quel est le nom de ce trophée ?,Coupe de la ligue,recognize-trophy,medium,./src/image/trophy/coupedelaligue.jpeg
-Quel est le nom de ce trophée ?,Coupe des nations,recognize-trophy,medium,./src/image/trophy/coupedesnations.jpeg
-Quel est le nom de ce trophée ?,Copa america,recognize-trophy,medium,./src/image/trophy/copaamerica.jpeg
-Quel est le nom de ce trophée ?,Copa del rey,recognize-trophy,medium,./src/image/trophy/copadelrey.jpeg
-Quel est le nom de ce trophée ?,Eredivisie,recognize-trophy,medium,./src/image/trophy/eredivisie.jpeg
-Quel est le nom de ce trophée ?,Coupe d'allemagne,recognize-trophy,hard,./src/image/trophy/coupedallemagne.jpeg
-Quel est le nom de ce trophée ?,Conference league,recognize-trophy,hard,./src/image/trophy/conferenceleague.jpeg
-Quel est le nom de ce trophée ?,Super lig,recognize-trophy,hard,./src/image/trophy/superlig.jpeg
-Quel est le nom de ce trophée ?,Trophée Kopa,recognize-trophy,hard,./src/image/trophy/kopa.jpeg
-Quel est le nom de ce trophée ?,Ligue 2,recognize-trophy,hard,./src/image/trophyligue2/.jpeg
-Quel est le nom de ce joueur ?,Lionel Messi,recognize-player,easy,./src/image/player/lionelmessi.jpeg
-Quel est le nom de ce joueur ?,Ronaldo Luís Nazário de Lima,recognize-player,easy,./src/image/player/ronaldo9.jpeg
-Quel est le nom de ce joueur ?,Robert Lewandowski,recognize-player,easy,./src/image/player/robertlewandowski.jpeg
-Quel est le nom de ce joueur ?,Eden Hazard,recognize-player,easy,./src/image/player/edenhazard.jpeg
-Quel est le nom de ce joueur ?,Kylian Mbappé,recognize-player,easy,./src/image/player/kylianmbappe.jpeg
-Quel est le nom de ce joueur ?,Erling Haaland,recognize-player,easy,./src/image/player/erlinghaaland.jpeg
-Quel est le nom de ce joueur ?,Zinedine Zidane,recognize-player,easy,./src/image/player/zinedinezidane.jpeg
-Quel est le nom de ce joueur ?,Thierry Henry,recognize-player,easy,./src/image/player/thierryhenry.jpeg
-Quel est le nom de ce joueur ?,Antoine Griezman,recognize-player,easy,./src/image/player/antoinegriezman.jpeg
-Quel est le nom de ce joueur ?,Cristiano Ronaldo,recognize-player,easy,./src/image/player/christianoronaldo.jpeg
-Quel est le nom de ce joueur ?,Diego Maradona,recognize-player,easy,./src/image/player/diegomaradona.jpeg
-Quel est le nom de ce joueur ?,"Edson Arantes do Nascimento, dit Pelé",recognize-player,easy,./src/image/player/pele.jpeg
-Quel est le nom de ce joueur ?,Hugo Lloris,recognize-player,easy,./src/image/player/hugolloris.jpeg
-Quel est le nom de ce joueur ?,Andres Iniesta,recognize-player,easy,./src/image/player/andresiniesta.jpeg
-Quel est le nom de ce joueur ?,Neymar Jr.,recognize-player,easy,./src/image/player/neymarjr.jpeg
-Quel est le nom de ce joueur ?,Didier Drogba,recognize-player,medium,./src/image/player/didierdrogba.jpeg
-Quel est le nom de ce joueur ?,Thiago Silva,recognize-player,medium,./src/image/player/thiagosilva.jpeg
-Quel est le nom de ce joueur ?,Toni Kroos,recognize-player,medium,./src/image/player/tonikroos.jpeg
-Quel est le nom de ce joueur ?,Mario Balotelli,recognize-player,medium,./src/image/player/mariobalotelli.jpeg
-Quel est le nom de ce joueur ?,Virgil van Dijk,recognize-player,medium,./src/image/player/virgilvandijk.jpeg
-Quel est le nom de ce joueur ?,Robin van Persie,recognize-player,medium,./src/image/player/robinvanpersie.jpeg
-Quel est le nom de ce joueur ?,Steven Gerrard,recognize-player,medium,./src/image/player/stevengerrard.jpeg
-Quel est le nom de ce joueur ?,Yassine Bounou,recognize-player,medium,./src/image/player/yassinebounou.jpeg
-Quel est le nom de ce joueur ?,Arjen Robben,recognize-player,medium,./src/image/player/arjenrobben.jpeg
-Quel est le nom de ce joueur ?,Son Heung-min,recognize-player,medium,./src/image/player/sonheungmin.jpeg
-Quel est le nom de ce joueur ?,Javier Pastore,recognize-player,medium,./src/image/player/javierpastore.jpeg
-Quel est le nom de ce joueur ?,André-Pierre Gignac,recognize-player,medium,./src/image/player/andrepierregignac.jpeg
-Quel est le nom de ce joueur ?,Mesut Ozïl,recognize-player,medium,./src/image/player/mesutozil.jpeg
-Quel est le nom de ce joueur ?,David Alaba,recognize-player,medium,./src/image/player/davidalaba.jpeg
-Quel est le nom de ce joueur ?,Nicolas Anelka,recognize-player,medium,./src/image/player/nicolasanelka.jpeg
-Quel est le nom de ce joueur ?,George Weah,recognize-player,hard,./src/image/player/georgeweah.jpeg
-Quel est le nom de ce joueur ?,Timothée Pembélé,recognize-player,hard,./src/image/player/timotheepembele.jpeg
-Quel est le nom de ce joueur ?,Amine Gouiri,recognize-player,hard,./src/image/player/aminegouiri.jpeg
-Quel est le nom de ce joueur ?,Hatem Ben Arfa,recognize-player,hard,./src/image/player/hatembenarfa.jpeg
-Quel est le nom de ce joueur ?,Steven Nzonzi,recognize-player,hard,./src/image/player/stevennzonzi.jpeg
-Quel est le nom de ce joueur ?,Serge Aurier,recognize-player,hard,./src/image/player/sergeaurier.jpeg
-Quel est le nom de ce joueur ?,Bixente Lizarazu,recognize-player,hard,./src/image/player/bixentelizarazu.jpeg
-Quel est le nom de ce joueur ?,Salvatore Sirigu,recognize-player,hard,./src/image/player/salvatoresirigu.jpeg
-Quel est le nom de ce joueur ?,Oscar dos santos emboaba júnio dit Oscar,recognize-player,hard,./src/image/player/oscar.jpeg
-Quel est le nom de ce joueur ?,Takefusa Kubo,recognize-player,hard,./src/image/player/takefusakubo.jpeg
-Quel est le nom de ce joueur ?,Weston McKennie,recognize-player,hard,./src/image/player/westonmckennie.jpeg
-Quel est le nom de ce joueur ?,Adama Traoré,recognize-player,hard,./src/image/player/adamatraore.jpeg
-Quel est le nom de ce joueur ?,Lamine Yamal,recognize-player,hard,./src/image/player/lamineyamal.jpeg
-Quel est le nom de ce joueur ?,Stéphane Ruffier,recognize-player,hard,./src/image/player/stephaneruffier.jpeg
-Quel est le nom de ce joueur ?,Jean-Pierre Papin,recognize-player,hard,./src/image/player/jeanpierrepapin.jpeg
-Quel est le nom de cet entraineur ?,Didier Deschamps,recognize-coach,easy,./src/image/coach/didierdeschamps.jpeg
-Quel est le nom de cet entraineur ?,Pep Guardiola,recognize-coach,easy,./src/image/coach/pepguardiola.jpeg
-Quel est le nom de cet entraineur ?,Xavi,recognize-coach,easy,./src/image/coach/xavi.jpeg
-Quel est le nom de cet entraineur ?,Luis Enrique,recognize-coach,easy,./src/image/coach/luisenrique.jpeg
-Quel est le nom de cet entraineur ?,Arsène Wenger,recognize-coach,easy,./src/image/coach/arsenewenger.jpeg
-Quel est le nom de cet entraineur ?,Carlo Ancelotti,recognize-coach,easy,./src/image/coach/carloancelotti.jpeg
-Quel est le nom de cet entraineur ?,Thomas Tuchel,recognize-coach,easy,./src/image/coach/thomastuchel.jpeg
-Quel est le nom de cet entraineur ?,José Mourinho,recognize-coach,easy,./src/image/coach/josemourinho.jpeg
-Quel est le nom de cet entraineur ?,Jürgen Klopp,recognize-coach,easy,./src/image/coach/jurgenklopp.jpeg
-Quel est le nom de cet entraineur ?,Laurent Blanc,recognize-coach,easy,./src/image/coach/laurentblanc.jpeg
-Quel est le nom de cet entraineur ?,Joachim Löw,recognize-coach,medium,./src/image/coach/joachimlow.jpeg
-Quel est le nom de cet entraineur ?,Antoine Kombouaré,recognize-coach,medium,./src/image/coach/antoinekombouare.jpeg
-Quel est le nom de cet entraineur ?,Mauricio Pochettino,recognize-coach,medium,./src/image/coach/mauriciopochettino.jpg
-Quel est le nom de cet entraineur ?,Diego Simeone,recognize-coach,medium,./src/image/coach/diegosimeone.jpg
-Quel est le nom de cet entraineur ?,Sir Alex Ferguson,recognize-coach,medium,./src/image/coach/siralexferguson.jpeg
-Quel est le nom de cet entraineur ?,Simone Inzaghi,recognize-coach,hard,./src/image/coach/simeoneinzaghi.jpeg
-Quel est le nom de cet entraineur ?,Franck Haise,recognize-coach,hard,./src/image/coach/franckhaise.jpeg
-Quel est le nom de cet entraineur ?,Stefano Pioli,recognize-coach,hard,./src/image/coach/stefanopioli.jpeg
-Quel est le nom de cet entraineur ?,Massimiliano Allegri,recognize-coach,hard,./src/image/coach/massimilianoallegri.jpeg
-Quel est le nom de cet entraineur ?,Mikel Arteta,recognize-coach,hard,./src/image/coach/mikelarteta.jpeg
+À quel club appartient ce logo ?,Manchester City,recognize-logo,easy,/src/src/image/logo/manchestercity.png
+À quel club appartient ce logo ?,Bayern Munich,recognize-logo,easy,/src/src/image/logo/bayernmunich.png
+À quel club appartient ce logo ?,Real Madrid,recognize-logo,easy,/src/src/image/logo/realmadrid.png
+À quel club appartient ce logo ?,Paris Saint Germain,recognize-logo,easy,/src/src/image/logo/psg.png
+À quel club appartient ce logo ?,Inter Milan,recognize-logo,easy,/src/src/image/logo/intermilan.png
+À quel club appartient ce logo ?,Liverpool,recognize-logo,easy,/src/src/image/logo/liverpool.png
+À quel club appartient ce logo ?,Chelsea,recognize-logo,easy,/src/src/image/logo/chelsea.png
+À quel club appartient ce logo ?,Juventus,recognize-logo,easy,/src/src/image/logo/juventus.png
+À quel club appartient ce logo ?,Manchester United,recognize-logo,easy,/src/src/image/logo/manchesterunited.png
+À quel club appartient ce logo ?,Arsenal,recognize-logo,easy,/src/src/image/logo/arsenal.png
+À quel club appartient ce logo ?,Borussia Dortmund,recognize-logo,easy,/src/src/image/logo/borussiadortmund.png
+À quel club appartient ce logo ?,FC Barcelone,recognize-logo,easy,/src/src/image/logo/fcbarcelone.png
+À quel club appartient ce logo ?,Seville,recognize-logo,easy,/src/src/image/logo/seville.png
+À quel club appartient ce logo ?,Atlético de madrird,recognize-logo,easy,/src/src/image/logo/atleticodemadrid.png
+À quel club appartient ce logo ?,AS Roma,recognize-logo,medium,/src/src/image/logo/asroma.png
+À quel club appartient ce logo ?,Rasen Ballsport Leipzig,recognize-logo,medium,/src/src/image/logo/rasenballsportleipzig.png
+À quel club appartient ce logo ?,Villareal,recognize-logo,medium,/src/src/image/logo/villareal.png
+À quel club appartient ce logo ?,FC Porto,recognize-logo,medium,/src/src/image/logo/fcporto.png
+À quel club appartient ce logo ?,West Ham United,recognize-logo,medium,/src/src/image/logo/westhamunited.png
+À quel club appartient ce logo ?,Atalanta,recognize-logo,medium,/src/src/image/logo/atalanta.png
+À quel club appartient ce logo ?,Shakhtar Donetsk,recognize-logo,medium,/src/src/image/logo/shakhtardonetsk.png
+À quel club appartient ce logo ?,Glasgow Rangers,recognize-logo,medium,/src/src/image/logo/glasgowrangers.png
+À quel club appartient ce logo ?,Feyenoord Rotterdam,recognize-logo,medium,/src/src/image/logo/feyenoordrotterdam.png
+À quel club appartient ce logo ?,SK Slavia Prague,recognize-logo,medium,/src/src/image/logo/skslaviaprague.png
+À quel club appartient ce logo ?,Club Brugge KV,recognize-logo,medium,/src/src/image/logo/clubbruggekv.png
+À quel club appartient ce logo ?,FC Bâle ,recognize-logo,medium,/src/src/image/logo/bale.png
+À quel club appartient ce logo ?,La Gantoise,recognize-logo,medium,/src/src/image/logo/lagantoise.png
+À quel club appartient ce logo ?,Sporting CP,recognize-logo,medium,/src/src/image/logo/sportingcp.png
+À quel club appartient ce logo ?,Étoile Rouge de Belgrade,recognize-logo,medium,/src/src/image/logo/etoilerougedebelgrade.png
+À quel club appartient ce logo ?,AEK Athènes,recognize-logo,hard,/src/src/image/logo/aekathenes.png
+À quel club appartient ce logo ?,Besiktas JK,recognize-logo,hard,/src/src/image/logo/besiktasjk.png
+À quel club appartient ce logo ?,Sparta Prague,recognize-logo,hard,/src/src/image/logo/spartaprague.png
+À quel club appartient ce logo ?,OGC Nice,recognize-logo,hard,/src/src/image/logo/ogcnice.png
+À quel club appartient ce logo ?,Wolverhampton Wanderers,recognize-logo,hard,/src/src/image/logo/wolverhamptonwanderers.png
+À quel club appartient ce logo ?,KRC Genk,recognize-logo,hard,/src/src/image/logo/krcgenk.png
+À quel club appartient ce logo ?,Lokomotiv Moscou,recognize-logo,hard,/src/src/image/logo/lokomotivmoscou.png
+À quel club appartient ce logo ?,FC Sheriff Tiraspol,recognize-logo,hard,/src/src/image/logo/fcsherifftiraspol.png
+À quel club appartient ce logo ?,Cologne,recognize-logo,hard,/src/src/image/logo/cologne.png
+À quel club appartient ce logo ?,FC Getafe,recognize-logo,hard,/src/src/image/logo/fcgetafe.png
+À quel club appartient ce logo ?,Trabzonspor,recognize-logo,hard,/src/src/image/logo/trabzonspor.png
+À quel club appartient ce logo ?,FC Viktoria Plzen ,recognize-logo,hard,/src/src/image/logo/fcviktoriaplzen.png
+À quel club appartient ce logo ?,Stade de Reims,recognize-logo,hard,/src/src/image/logo/stadedereims.png
+À quel club appartient ce logo ?,FC Zürich,recognize-logo,hard,/src/src/image/logo/fczurich.png
+À quel club appartient ce logo ?,FK Sarajevo,recognize-logo,hard,/src/src/image/logo/fksarajevo.png
+Quel est le nom de ce stade ?,Wembley stade de Tottenham,recognize-stadium,easy,/src/src/image/stadium/wembley.jpeg
+Quel est le nom de ce stade ?,Allianz Arena stade du Bayern Munich,recognize-stadium,easy,/src/src/image/stadium/allianzarena.jpeg
+Quel est le nom de ce stade ?,Santiago Bernabéu stade du Réal Madrid,recognize-stadium,easy,/src/src/image/stadium/barnabeu.jpeg
+Quel est le nom de ce stade ?,Camp Nou stade du FC Barcelone,recognize-stadium,easy,/src/src/image/stadium/campnou.jpeg
+Quel est le nom de ce stade ?,San Siro stade de l'Inter Milan et de l'AC Milan,recognize-stadium,easy,/src/src/image/stadium/sansiro.jpeg
+Quel est le nom de ce stade ?,Vélodrome stade de l'olympique de Marseille,recognize-stadium,easy,/src/src/image/stadium/velodrome.jpeg
+Quel est le nom de ce stade ?,Parc Des Princes stade du Paris Saint Germain,recognize-stadium,easy,/src/src/image/stadium/parcdesprinces.jpeg
+Quel est le nom de ce stade ?,Bollaert stade du RC Lens,recognize-stadium,easy,/src/src/image/stadium/bollaert.jpeg
+Quel est le nom de ce stade ?,Old Trafford stade de Manchester United,recognize-stadium,easy,/src/src/image/stadium/oldtrafford.jpeg
+Quel est le nom de ce stade ?,Geoffroy Guichard stade de l'AS Saint Étienne,recognize-stadium,easy,/src/src/image/stadium/geoffroyguichard.jpeg
+Quel est le nom de ce stade ?,Anfield stade de Liverpool,recognize-stadium,medium,/src/src/image/stadium/anfield.jpeg
+Quel est le nom de ce stade ?,Emirates Stadium stade d'Arsenal,recognize-stadium,medium,/src/src/image/stadium/emiratesstadium.jpeg
+Quel est le nom de ce stade ?,Etihad Stadium stade de Manchester City,recognize-stadium,medium,/src/src/image/stadium/etihadstadium.jpeg
+Quel est le nom de ce stade ?,Allianz Stadium stade de la Juventus de Turin,recognize-stadium,medium,/src/src/image/stadium/allianzstadium.jpeg
+Quel est le nom de ce stade ?,Johan Cruyff Arena stade de l'Ajax d'Amsterdam,recognize-stadium,medium,/src/src/image/stadium/johancruyff.jpeg
+Quel est le nom de ce stade ?,Civitas Metropolitano stade de l'Atlético de Madrid,recognize-stadium,medium,/src/src/image/stadium/civitasmetropolitano.jpeg
+Quel est le nom de ce stade ?,Groupama Stadium stade de l'olympique lyonnais,recognize-stadium,medium,/src/src/image/stadium/groupamastadium.jpeg
+Quel est le nom de ce stade ?,Ibrox Stadium stade de Glasgow Rangers,recognize-stadium,medium,/src/src/image/stadium/ibroxstadium.jpeg
+Quel est le nom de ce stade ?,Stamford Bridge stade de Chelsea,recognize-stadium,medium,/src/src/image/stadium/stamfordbridge.jpeg
+Quel est le nom de ce stade ?,Estádio da Luz stade du Benfica,recognize-stadium,medium,/src/src/image/stadium/estadiodaluz.jpeg
+Quel est le nom de ce stade ?,Stade du Dragon stade du FC Porto,recognize-stadium,hard,/src/src/image/stadium/stadedudragon.jpeg
+Quel est le nom de ce stade ?,Allianz Riviera stade de l'OGC Nice,recognize-stadium,hard,/src/src/image/stadium/allianzriviera.jpeg
+Quel est le nom de ce stade ?,Signal Iduna Park stade du Borussia Dortmund,recognize-stadium,hard,/src/src/image/stadium/signalidunapark.jpeg
+Quel est le nom de ce stade ?,BayArena stade du Bayer Leverkusen,recognize-stadium,hard,/src/src/image/stadium/bayarena.jpeg
+Quel est le nom de ce stade ?,Stadio della Roma stade de l'AS Roma et de la Lazio,recognize-stadium,hard,/src/src/image/stadium/stadiodellaroma.jpeg
+Quel est le nom de ce stade ?,Roazhon Park stade du Stade Rennais,recognize-stadium,hard,/src/src/image/stadium/roazhonpark.jpeg
+Quel est le nom de ce stade ?,José Alavade stade du Sporting CP,recognize-stadium,hard,/src/src/image/stadium/josealavade.jpeg
+Quel est le nom de ce stade ?,Matmut Atlantique stade des Girondins de Bordeau,recognize-stadium,hard,/src/src/image/stadium/matmutatlantique.jpeg
+Quel est le nom de ce stade ?,Maracaña stade de Flamengo et Fluminense,recognize-stadium,hard,/src/src/image/stadium/maracana.jpeg
+Quel est le nom de ce stade ?,Charléty stade du Paris FC,recognize-stadium,hard,/src/src/image/stadium/charlety.jpeg
+Quel est le nom de ce trophée ?,Coupe du monde,recognize-trophy,easy,/src/src/image/trophy/coupedumonde.jpeg
+Quel est le nom de ce trophée ?,Ligue 1,recognize-trophy,easy,/src/src/image/trophy/ligue1.jpeg
+Quel est le nom de ce trophée ?,Ligue des champions,recognize-trophy,easy,/src/src/image/trophy/liguedeschampions.jpeg
+Quel est le nom de ce trophée ?,Europa league,recognize-trophy,easy,/src/src/image/trophy/europaleague.jpeg
+Quel est le nom de ce trophée ?,Euro ,recognize-trophy,easy,/src/src/image/trophy/euro.jpeg
+Quel est le nom de ce trophée ?,Coupe d'afrique des nations,recognize-trophy,easy,/src/src/image/trophy/can.jpeg
+Quel est le nom de ce trophée ?,Premier league,recognize-trophy,easy,/src/src/image/trophy/premierleague.jpeg
+Quel est le nom de ce trophée ?,Liga,recognize-trophy,easy,/src/src/image/trophy/liga.jpeg
+Quel est le nom de ce trophée ?,Bundesliga,recognize-trophy,easy,/src/src/image/trophy/bundesliga.jpeg
+Quel est le nom de ce trophée ?,Serie A,recognize-trophy,easy,/src/src/image/trophy/seriea.jpeg
+Quel est le nom de ce trophée ?,Coupe de la ligue,recognize-trophy,medium,/src/src/image/trophy/coupedelaligue.jpeg
+Quel est le nom de ce trophée ?,Coupe des nations,recognize-trophy,medium,/src/src/image/trophy/coupedesnations.jpeg
+Quel est le nom de ce trophée ?,Copa america,recognize-trophy,medium,/src/src/image/trophy/copaamerica.jpeg
+Quel est le nom de ce trophée ?,Copa del rey,recognize-trophy,medium,/src/src/image/trophy/copadelrey.jpeg
+Quel est le nom de ce trophée ?,Eredivisie,recognize-trophy,medium,/src/src/image/trophy/eredivisie.jpeg
+Quel est le nom de ce trophée ?,Coupe d'allemagne,recognize-trophy,hard,/src/src/image/trophy/coupedallemagne.jpeg
+Quel est le nom de ce trophée ?,Conference league,recognize-trophy,hard,/src/src/image/trophy/conferenceleague.jpeg
+Quel est le nom de ce trophée ?,Super lig,recognize-trophy,hard,/src/src/image/trophy/superlig.jpeg
+Quel est le nom de ce trophée ?,Trophée Kopa,recognize-trophy,hard,/src/src/image/trophy/kopa.jpeg
+Quel est le nom de ce trophée ?,Ligue 2,recognize-trophy,hard,/src/src/image/trophyligue2/.jpeg
+Quel est le nom de ce joueur ?,Lionel Messi,recognize-player,easy,/src/src/image/player/lionelmessi.jpeg
+Quel est le nom de ce joueur ?,Ronaldo Luís Nazário de Lima,recognize-player,easy,/src/src/image/player/ronaldo9.jpeg
+Quel est le nom de ce joueur ?,Robert Lewandowski,recognize-player,easy,/src/src/image/player/robertlewandowski.jpeg
+Quel est le nom de ce joueur ?,Eden Hazard,recognize-player,easy,/src/src/image/player/edenhazard.jpeg
+Quel est le nom de ce joueur ?,Kylian Mbappé,recognize-player,easy,/src/src/image/player/kylianmbappe.jpeg
+Quel est le nom de ce joueur ?,Erling Haaland,recognize-player,easy,/src/src/image/player/erlinghaaland.jpeg
+Quel est le nom de ce joueur ?,Zinedine Zidane,recognize-player,easy,/src/src/image/player/zinedinezidane.jpeg
+Quel est le nom de ce joueur ?,Thierry Henry,recognize-player,easy,/src/src/image/player/thierryhenry.jpeg
+Quel est le nom de ce joueur ?,Antoine Griezman,recognize-player,easy,/src/src/image/player/antoinegriezman.jpeg
+Quel est le nom de ce joueur ?,Cristiano Ronaldo,recognize-player,easy,/src/src/image/player/christianoronaldo.jpeg
+Quel est le nom de ce joueur ?,Diego Maradona,recognize-player,easy,/src/src/image/player/diegomaradona.jpeg
+Quel est le nom de ce joueur ?,"Edson Arantes do Nascimento, dit Pelé",recognize-player,easy,/src/src/image/player/pele.jpeg
+Quel est le nom de ce joueur ?,Hugo Lloris,recognize-player,easy,/src/src/image/player/hugolloris.jpeg
+Quel est le nom de ce joueur ?,Andres Iniesta,recognize-player,easy,/src/src/image/player/andresiniesta.jpeg
+Quel est le nom de ce joueur ?,Neymar Jr.,recognize-player,easy,/src/src/image/player/neymarjr.jpeg
+Quel est le nom de ce joueur ?,Didier Drogba,recognize-player,medium,/src/src/image/player/didierdrogba.jpeg
+Quel est le nom de ce joueur ?,Thiago Silva,recognize-player,medium,/src/src/image/player/thiagosilva.jpeg
+Quel est le nom de ce joueur ?,Toni Kroos,recognize-player,medium,/src/src/image/player/tonikroos.jpeg
+Quel est le nom de ce joueur ?,Mario Balotelli,recognize-player,medium,/src/src/image/player/mariobalotelli.jpeg
+Quel est le nom de ce joueur ?,Virgil van Dijk,recognize-player,medium,/src/src/image/player/virgilvandijk.jpeg
+Quel est le nom de ce joueur ?,Robin van Persie,recognize-player,medium,/src/src/image/player/robinvanpersie.jpeg
+Quel est le nom de ce joueur ?,Steven Gerrard,recognize-player,medium,/src/src/image/player/stevengerrard.jpeg
+Quel est le nom de ce joueur ?,Yassine Bounou,recognize-player,medium,/src/src/image/player/yassinebounou.jpeg
+Quel est le nom de ce joueur ?,Arjen Robben,recognize-player,medium,/src/src/image/player/arjenrobben.jpeg
+Quel est le nom de ce joueur ?,Son Heung-min,recognize-player,medium,/src/src/image/player/sonheungmin.jpeg
+Quel est le nom de ce joueur ?,Javier Pastore,recognize-player,medium,/src/src/image/player/javierpastore.jpeg
+Quel est le nom de ce joueur ?,André-Pierre Gignac,recognize-player,medium,/src/src/image/player/andrepierregignac.jpeg
+Quel est le nom de ce joueur ?,Mesut Ozïl,recognize-player,medium,/src/src/image/player/mesutozil.jpeg
+Quel est le nom de ce joueur ?,David Alaba,recognize-player,medium,/src/src/image/player/davidalaba.jpeg
+Quel est le nom de ce joueur ?,Nicolas Anelka,recognize-player,medium,/src/src/image/player/nicolasanelka.jpeg
+Quel est le nom de ce joueur ?,George Weah,recognize-player,hard,/src/src/image/player/georgeweah.jpeg
+Quel est le nom de ce joueur ?,Timothée Pembélé,recognize-player,hard,/src/src/image/player/timotheepembele.jpeg
+Quel est le nom de ce joueur ?,Amine Gouiri,recognize-player,hard,/src/src/image/player/aminegouiri.jpeg
+Quel est le nom de ce joueur ?,Hatem Ben Arfa,recognize-player,hard,/src/src/image/player/hatembenarfa.jpeg
+Quel est le nom de ce joueur ?,Steven Nzonzi,recognize-player,hard,/src/src/image/player/stevennzonzi.jpeg
+Quel est le nom de ce joueur ?,Serge Aurier,recognize-player,hard,/src/src/image/player/sergeaurier.jpeg
+Quel est le nom de ce joueur ?,Bixente Lizarazu,recognize-player,hard,/src/src/image/player/bixentelizarazu.jpeg
+Quel est le nom de ce joueur ?,Salvatore Sirigu,recognize-player,hard,/src/src/image/player/salvatoresirigu.jpeg
+Quel est le nom de ce joueur ?,Oscar dos santos emboaba júnio dit Oscar,recognize-player,hard,/src/src/image/player/oscar.jpeg
+Quel est le nom de ce joueur ?,Takefusa Kubo,recognize-player,hard,/src/src/image/player/takefusakubo.jpeg
+Quel est le nom de ce joueur ?,Weston McKennie,recognize-player,hard,/src/src/image/player/westonmckennie.jpeg
+Quel est le nom de ce joueur ?,Adama Traoré,recognize-player,hard,/src/src/image/player/adamatraore.jpeg
+Quel est le nom de ce joueur ?,Lamine Yamal,recognize-player,hard,/src/src/image/player/lamineyamal.jpeg
+Quel est le nom de ce joueur ?,Stéphane Ruffier,recognize-player,hard,/src/src/image/player/stephaneruffier.jpeg
+Quel est le nom de ce joueur ?,Jean-Pierre Papin,recognize-player,hard,/src/src/image/player/jeanpierrepapin.jpeg
+Quel est le nom de cet entraineur ?,Didier Deschamps,recognize-coach,easy,/src/src/image/coach/didierdeschamps.jpeg
+Quel est le nom de cet entraineur ?,Pep Guardiola,recognize-coach,easy,/src/src/image/coach/pepguardiola.jpeg
+Quel est le nom de cet entraineur ?,Xavi,recognize-coach,easy,/src/src/image/coach/xavi.jpeg
+Quel est le nom de cet entraineur ?,Luis Enrique,recognize-coach,easy,/src/src/image/coach/luisenrique.jpeg
+Quel est le nom de cet entraineur ?,Arsène Wenger,recognize-coach,easy,/src/src/image/coach/arsenewenger.jpeg
+Quel est le nom de cet entraineur ?,Carlo Ancelotti,recognize-coach,easy,/src/src/image/coach/carloancelotti.jpeg
+Quel est le nom de cet entraineur ?,Thomas Tuchel,recognize-coach,easy,/src/src/image/coach/thomastuchel.jpeg
+Quel est le nom de cet entraineur ?,José Mourinho,recognize-coach,easy,/src/src/image/coach/josemourinho.jpeg
+Quel est le nom de cet entraineur ?,Jürgen Klopp,recognize-coach,easy,/src/src/image/coach/jurgenklopp.jpeg
+Quel est le nom de cet entraineur ?,Laurent Blanc,recognize-coach,easy,/src/src/image/coach/laurentblanc.jpeg
+Quel est le nom de cet entraineur ?,Joachim Löw,recognize-coach,medium,/src/src/image/coach/joachimlow.jpeg
+Quel est le nom de cet entraineur ?,Antoine Kombouaré,recognize-coach,medium,/src/src/image/coach/antoinekombouare.jpeg
+Quel est le nom de cet entraineur ?,Mauricio Pochettino,recognize-coach,medium,/src/src/image/coach/mauriciopochettino.jpg
+Quel est le nom de cet entraineur ?,Diego Simeone,recognize-coach,medium,/src/src/image/coach/diegosimeone.jpg
+Quel est le nom de cet entraineur ?,Sir Alex Ferguson,recognize-coach,medium,/src/src/image/coach/siralexferguson.jpeg
+Quel est le nom de cet entraineur ?,Simone Inzaghi,recognize-coach,hard,/src/src/image/coach/simeoneinzaghi.jpeg
+Quel est le nom de cet entraineur ?,Franck Haise,recognize-coach,hard,/src/src/image/coach/franckhaise.jpeg
+Quel est le nom de cet entraineur ?,Stefano Pioli,recognize-coach,hard,/src/src/image/coach/stefanopioli.jpeg
+Quel est le nom de cet entraineur ?,Massimiliano Allegri,recognize-coach,hard,/src/src/image/coach/massimilianoallegri.jpeg
+Quel est le nom de cet entraineur ?,Mikel Arteta,recognize-coach,hard,/src/src/image/coach/mikelarteta.jpeg
 Combien le PSG a remporté de Ligue 1 ?,11,club-trophy,easy,
 Combien le Réal de Madrid a remporté de ligue des Champions ?,14,club-trophy,easy,
 Combien l'Allemagne a remporté de coupe du monde ?,4,club-trophy,easy,
@@ -335,17 +335,17 @@ Trouver un joueur ayant déjà jouer pour l'équipe nationale de Ghana,,find-pla
 Trouver un joueur ayant déjà jouer pour l'équipe nationale du Libéria,,find-player,hard,
 Trouver un joueur ayant déjà jouer pour l'équipe nationale de Russie,,find-player,hard,
 Tourver un joueur ayant déjà joueur pour l'équipe nationale du Mexique,,find-player,hard,
-Comment s'appelle ce chant de supporter ?,You will never walk alone,song,easy,.src/song/younerverwalkalone.mp3
-Comment s'appelle ce chant de supporter ?,Aux armes (Olymipique de Marseille),song,easy,.src/song/auxarmes.mp3
-Comment s'appelle ce chant de supporter ?,Les corons (Stade de Lens),song,easy,.src/song/lescorons.mp3
-Comment s'appelle ce chant de supporter ?,El cant del barca (FC Barcelone),song,medium,.src/song/barca.mp3
-Comment s'appelle ce chant de supporter ?,Sara perche ti amo (AC Milan),song,easy,.src/song/saraperquetiamo.mp3
-Comment s'appelle ce chant de supporter ?,Hala madrid y nadas mas (Réal Madrid),song,medium,.src/song/halamadrid.mp3
-Comment s'appelle ce chant de supporter ?,Allez les verts (AS Saint Étienne),song,medium,.src/song/allerlesverts.mp3
-Comment s'appelle ce chant de supporter ?,O ville lumière (Paris Saint Germain),song,medium,.src/song/villelumiere.mp3
-Comment s'appelle ce chant de supporter ?,Ser Benfiquista (Benfiqua),song,hard,.src/song/serbenfiquista.mp3
-Comment s'appelle ce chant de supporter ?,Forever blowing bubbles (West Ham),song,hard,.src/song/westham.mp3
-Comment s'appelle ce chant de supporter ?,Glory Glory (Manchester United),song,hard,.src/song/gloryglory.mp3
+Comment s'appelle ce chant de supporter ?,You will never walk alone,song,easy,./src/src/song/younerverwalkalone.mp3
+Comment s'appelle ce chant de supporter ?,Aux armes (Olymipique de Marseille),song,easy,./src/src/song/auxarmes.mp3
+Comment s'appelle ce chant de supporter ?,Les corons (Stade de Lens),song,easy,./src/src/song/lescorons.mp3
+Comment s'appelle ce chant de supporter ?,El cant del barca (FC Barcelone),song,medium,./src/src/song/barca.mp3
+Comment s'appelle ce chant de supporter ?,Sara perche ti amo (AC Milan),song,easy,./src/src/song/saraperquetiamo.mp3
+Comment s'appelle ce chant de supporter ?,Hala madrid y nadas mas (Réal Madrid),song,medium,./src/src/song/halamadrid.mp3
+Comment s'appelle ce chant de supporter ?,Allez les verts (AS Saint Étienne),song,medium,./src/src/song/allerlesverts.mp3
+Comment s'appelle ce chant de supporter ?,O ville lumière (Paris Saint Germain),song,medium,./src/src/song/villelumiere.mp3
+Comment s'appelle ce chant de supporter ?,Ser Benfiquista (Benfiqua),song,hard,./src/src/song/serbenfiquista.mp3
+Comment s'appelle ce chant de supporter ?,Forever blowing bubbles (West Ham),song,hard,./src/src/song/westham.mp3
+Comment s'appelle ce chant de supporter ?,Glory Glory (Manchester United),song,hard,./src/src/song/gloryglory.mp3
 "Donnner toutes les étapes du score de la finale de la coupe du monde 2018, France Croatie",1-0 / 1-1 / 2-1 / 3-1 / 4-1 / 4-2,score-evolution,medium,
 "Donnner toutes les étapes du score de la finale de la coupe du monde 2022, France Argentine",0-1 / 0-2 / 1-2 / 2-2 / 2-3 / 3-3,score-evolution,medium,
 "Donnner toutes les étapes du score du match aller-retour de demi finale de ligue des Champions 2022, Manchester City Réal Madrid",1-0 / 2-0 / 2-1 / 3-1 / 3-2 / 4-2 / 4-3 / 5-3 / 5-4 / 5-5 / 5-6 ,score-evolution,hard,
