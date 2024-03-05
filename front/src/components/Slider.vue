@@ -4,10 +4,10 @@ export default {
     data() {
         return {
             images: [
-                '/src/src/image/avatar/avatar.jpg',
+                '/src/src/image/avatar/avatar0.jpg',
+                '/src/src/image/avatar/avatar1.jpg',
                 '/src/src/image/avatar/avatar2.jpg',
-                '/src/src/image/avatar/avatar3.jpg',
-                '/src/src/image/avatar/avatar4.jpg'
+                '/src/src/image/avatar/avatar3.jpg'
             ],
             index: 0
         };
@@ -15,9 +15,11 @@ export default {
     methods: {
         prevSlide() {
             this.index = (this.index === 0) ? this.images.length - 1 : this.index - 1;
+            this.$emit('update', `/src/src/image/avatar/avatar${this.index}.jpg`);
         },
         nextSlide() {
             this.index = (this.index === this.images.length - 1) ? 0 : this.index + 1;
+            this.$emit('update', `/src/src/image/avatar/avatar${this.index}.jpg`);
         }
     },
 };

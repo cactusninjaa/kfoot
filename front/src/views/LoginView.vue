@@ -1,23 +1,39 @@
 <script>
     import  Input  from "@/components/Input.vue";
     import Slider from "@/components/Slider.vue";
+    import { useLoginStore } from '@/stores/login';
+
     export default {
         name: 'LoginView',
         data() {
             return {
-                formPseudo: {
-                    pseudo: ''
+                formUser: {
+                    pseudo: '',
+                    avatar: 'src/src/image/avatar/avatar0.jpg'
                 }
             };
+        },
+        setup() {
+            const loginStore = useLoginStore();
+            return {
+                loginStore
+            }
         },
         components: {
             Input,
             Slider
         },
         methods: {
-            setPseudo(){
-                localStorage.setItem('pseudo', this.formPseudo.pseudo); 
-                this.$router.push('/');
+            updateAvatar(avatarSrc) {
+                this.formUser.avatar = avatarSrc;
+            },
+            addUser(){
+                this.loginStore.addUser(this.formUser);
+                this.formUser = {
+                    pseudo: '',
+                    avatar: 'src/src/image/avatar/avatar0.jpg'
+                }
+                this.$router.push('/room');
             }
         }
     }
@@ -26,9 +42,9 @@
 <template>
     <div>
         <p>logo</p>
-        <Slider class="slider"/>
-        <form @submit.prevent="setPseudo()">
-            <input type="text" v-model="formPseudo.pseudo"/>
+        <Slider @update="updateAvatar"/>
+        <form @submit.prevent="addUser()">
+            <input type="text" v-model="formUser.pseudo"/>
             <button type="submit">Créer une room</button>
         </form>
     </div>
