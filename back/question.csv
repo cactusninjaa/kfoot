@@ -1,0 +1,767 @@
+question,answer,type,difficulty,link
+À quel club appartient ce logo ?,Manchester City,recognize-logo,easy,/src/src/image/logo/manchestercity.png
+À quel club appartient ce logo ?,Bayern Munich,recognize-logo,easy,/src/src/image/logo/bayernmunich.png
+À quel club appartient ce logo ?,Real Madrid,recognize-logo,easy,/src/src/image/logo/realmadrid.png
+À quel club appartient ce logo ?,Paris Saint Germain,recognize-logo,easy,/src/src/image/logo/psg.png
+À quel club appartient ce logo ?,Inter Milan,recognize-logo,easy,/src/src/image/logo/intermilan.png
+À quel club appartient ce logo ?,Liverpool,recognize-logo,easy,/src/src/image/logo/liverpool.png
+À quel club appartient ce logo ?,Chelsea,recognize-logo,easy,/src/src/image/logo/chelsea.png
+À quel club appartient ce logo ?,Juventus,recognize-logo,easy,/src/src/image/logo/juventus.png
+À quel club appartient ce logo ?,Manchester United,recognize-logo,easy,/src/src/image/logo/manchesterunited.png
+À quel club appartient ce logo ?,Arsenal,recognize-logo,easy,/src/src/image/logo/arsenal.png
+À quel club appartient ce logo ?,Borussia Dortmund,recognize-logo,easy,/src/src/image/logo/borussiadortmund.png
+À quel club appartient ce logo ?,FC Barcelone,recognize-logo,easy,/src/src/image/logo/fcbarcelone.png
+À quel club appartient ce logo ?,Seville,recognize-logo,easy,/src/src/image/logo/seville.png
+À quel club appartient ce logo ?,Atlético de madrird,recognize-logo,easy,/src/src/image/logo/atleticodemadrid.png
+À quel club appartient ce logo ?,AS Roma,recognize-logo,medium,/src/src/image/logo/asroma.png
+À quel club appartient ce logo ?,Rasen Ballsport Leipzig,recognize-logo,medium,/src/src/image/logo/rasenballsportleipzig.png
+À quel club appartient ce logo ?,Villareal,recognize-logo,medium,/src/src/image/logo/villareal.png
+À quel club appartient ce logo ?,FC Porto,recognize-logo,medium,/src/src/image/logo/fcporto.png
+À quel club appartient ce logo ?,West Ham United,recognize-logo,medium,/src/src/image/logo/westhamunited.png
+À quel club appartient ce logo ?,Atalanta,recognize-logo,medium,/src/src/image/logo/atalanta.png
+À quel club appartient ce logo ?,Shakhtar Donetsk,recognize-logo,medium,/src/src/image/logo/shakhtardonetsk.png
+À quel club appartient ce logo ?,Glasgow Rangers,recognize-logo,medium,/src/src/image/logo/glasgowrangers.png
+À quel club appartient ce logo ?,Feyenoord Rotterdam,recognize-logo,medium,/src/src/image/logo/feyenoordrotterdam.png
+À quel club appartient ce logo ?,SK Slavia Prague,recognize-logo,medium,/src/src/image/logo/skslaviaprague.png
+À quel club appartient ce logo ?,Club Brugge KV,recognize-logo,medium,/src/src/image/logo/clubbruggekv.png
+À quel club appartient ce logo ?,FC Bâle ,recognize-logo,medium,/src/src/image/logo/bale.png
+À quel club appartient ce logo ?,La Gantoise,recognize-logo,medium,/src/src/image/logo/lagantoise.png
+À quel club appartient ce logo ?,Sporting CP,recognize-logo,medium,/src/src/image/logo/sportingcp.png
+À quel club appartient ce logo ?,Étoile Rouge de Belgrade,recognize-logo,medium,/src/src/image/logo/etoilerougedebelgrade.png
+À quel club appartient ce logo ?,AEK Athènes,recognize-logo,hard,/src/src/image/logo/aekathenes.png
+À quel club appartient ce logo ?,Besiktas JK,recognize-logo,hard,/src/src/image/logo/besiktasjk.png
+À quel club appartient ce logo ?,Sparta Prague,recognize-logo,hard,/src/src/image/logo/spartaprague.png
+À quel club appartient ce logo ?,OGC Nice,recognize-logo,hard,/src/src/image/logo/ogcnice.png
+À quel club appartient ce logo ?,Wolverhampton Wanderers,recognize-logo,hard,/src/src/image/logo/wolverhamptonwanderers.png
+À quel club appartient ce logo ?,KRC Genk,recognize-logo,hard,/src/src/image/logo/krcgenk.png
+À quel club appartient ce logo ?,Lokomotiv Moscou,recognize-logo,hard,/src/src/image/logo/lokomotivmoscou.png
+À quel club appartient ce logo ?,FC Sheriff Tiraspol,recognize-logo,hard,/src/src/image/logo/fcsherifftiraspol.png
+À quel club appartient ce logo ?,Cologne,recognize-logo,hard,/src/src/image/logo/cologne.png
+À quel club appartient ce logo ?,FC Getafe,recognize-logo,hard,/src/src/image/logo/fcgetafe.png
+À quel club appartient ce logo ?,Trabzonspor,recognize-logo,hard,/src/src/image/logo/trabzonspor.png
+À quel club appartient ce logo ?,FC Viktoria Plzen ,recognize-logo,hard,/src/src/image/logo/fcviktoriaplzen.png
+À quel club appartient ce logo ?,Stade de Reims,recognize-logo,hard,/src/src/image/logo/stadedereims.png
+À quel club appartient ce logo ?,FC Zürich,recognize-logo,hard,/src/src/image/logo/fczurich.png
+À quel club appartient ce logo ?,FK Sarajevo,recognize-logo,hard,/src/src/image/logo/fksarajevo.png
+Quel est le nom de ce stade ?,Wembley stade de Tottenham,recognize-stadium,easy,/src/src/image/stadium/wembley.jpeg
+Quel est le nom de ce stade ?,Allianz Arena stade du Bayern Munich,recognize-stadium,easy,/src/src/image/stadium/allianzarena.jpeg
+Quel est le nom de ce stade ?,Santiago Bernabéu stade du Réal Madrid,recognize-stadium,easy,/src/src/image/stadium/barnabeu.jpeg
+Quel est le nom de ce stade ?,Camp Nou stade du FC Barcelone,recognize-stadium,easy,/src/src/image/stadium/campnou.jpeg
+Quel est le nom de ce stade ?,San Siro stade de l'Inter Milan et de l'AC Milan,recognize-stadium,easy,/src/src/image/stadium/sansiro.jpeg
+Quel est le nom de ce stade ?,Vélodrome stade de l'olympique de Marseille,recognize-stadium,easy,/src/src/image/stadium/velodrome.jpeg
+Quel est le nom de ce stade ?,Parc Des Princes stade du Paris Saint Germain,recognize-stadium,easy,/src/src/image/stadium/parcdesprinces.jpeg
+Quel est le nom de ce stade ?,Bollaert stade du RC Lens,recognize-stadium,easy,/src/src/image/stadium/bollaert.jpeg
+Quel est le nom de ce stade ?,Old Trafford stade de Manchester United,recognize-stadium,easy,/src/src/image/stadium/oldtrafford.jpeg
+Quel est le nom de ce stade ?,Geoffroy Guichard stade de l'AS Saint Étienne,recognize-stadium,easy,/src/src/image/stadium/geoffroyguichard.jpeg
+Quel est le nom de ce stade ?,Anfield stade de Liverpool,recognize-stadium,medium,/src/src/image/stadium/anfield.jpeg
+Quel est le nom de ce stade ?,Emirates Stadium stade d'Arsenal,recognize-stadium,medium,/src/src/image/stadium/emiratesstadium.jpeg
+Quel est le nom de ce stade ?,Etihad Stadium stade de Manchester City,recognize-stadium,medium,/src/src/image/stadium/etihadstadium.jpeg
+Quel est le nom de ce stade ?,Allianz Stadium stade de la Juventus de Turin,recognize-stadium,medium,/src/src/image/stadium/allianzstadium.jpeg
+Quel est le nom de ce stade ?,Johan Cruyff Arena stade de l'Ajax d'Amsterdam,recognize-stadium,medium,/src/src/image/stadium/johancruyff.jpeg
+Quel est le nom de ce stade ?,Civitas Metropolitano stade de l'Atlético de Madrid,recognize-stadium,medium,/src/src/image/stadium/civitasmetropolitano.jpeg
+Quel est le nom de ce stade ?,Groupama Stadium stade de l'olympique lyonnais,recognize-stadium,medium,/src/src/image/stadium/groupamastadium.jpeg
+Quel est le nom de ce stade ?,Ibrox Stadium stade de Glasgow Rangers,recognize-stadium,medium,/src/src/image/stadium/ibroxstadium.jpeg
+Quel est le nom de ce stade ?,Stamford Bridge stade de Chelsea,recognize-stadium,medium,/src/src/image/stadium/stamfordbridge.jpeg
+Quel est le nom de ce stade ?,Estádio da Luz stade du Benfica,recognize-stadium,medium,/src/src/image/stadium/estadiodaluz.jpeg
+Quel est le nom de ce stade ?,Stade du Dragon stade du FC Porto,recognize-stadium,hard,/src/src/image/stadium/stadedudragon.jpeg
+Quel est le nom de ce stade ?,Allianz Riviera stade de l'OGC Nice,recognize-stadium,hard,/src/src/image/stadium/allianzriviera.jpeg
+Quel est le nom de ce stade ?,Signal Iduna Park stade du Borussia Dortmund,recognize-stadium,hard,/src/src/image/stadium/signalidunapark.jpeg
+Quel est le nom de ce stade ?,BayArena stade du Bayer Leverkusen,recognize-stadium,hard,/src/src/image/stadium/bayarena.jpeg
+Quel est le nom de ce stade ?,Stadio della Roma stade de l'AS Roma et de la Lazio,recognize-stadium,hard,/src/src/image/stadium/stadiodellaroma.jpeg
+Quel est le nom de ce stade ?,Roazhon Park stade du Stade Rennais,recognize-stadium,hard,/src/src/image/stadium/roazhonpark.jpeg
+Quel est le nom de ce stade ?,José Alavade stade du Sporting CP,recognize-stadium,hard,/src/src/image/stadium/josealavade.jpeg
+Quel est le nom de ce stade ?,Matmut Atlantique stade des Girondins de Bordeau,recognize-stadium,hard,/src/src/image/stadium/matmutatlantique.jpeg
+Quel est le nom de ce stade ?,Maracaña stade de Flamengo et Fluminense,recognize-stadium,hard,/src/src/image/stadium/maracana.jpeg
+Quel est le nom de ce stade ?,Charléty stade du Paris FC,recognize-stadium,hard,/src/src/image/stadium/charlety.jpeg
+Quel est le nom de ce trophée ?,Coupe du monde,recognize-trophy,easy,/src/src/image/trophy/coupedumonde.jpeg
+Quel est le nom de ce trophée ?,Ligue 1,recognize-trophy,easy,/src/src/image/trophy/ligue1.jpeg
+Quel est le nom de ce trophée ?,Ligue des champions,recognize-trophy,easy,/src/src/image/trophy/liguedeschampions.jpeg
+Quel est le nom de ce trophée ?,Europa league,recognize-trophy,easy,/src/src/image/trophy/europaleague.jpeg
+Quel est le nom de ce trophée ?,Euro ,recognize-trophy,easy,/src/src/image/trophy/euro.jpeg
+Quel est le nom de ce trophée ?,Coupe d'afrique des nations,recognize-trophy,easy,/src/src/image/trophy/can.jpeg
+Quel est le nom de ce trophée ?,Premier league,recognize-trophy,easy,/src/src/image/trophy/premierleague.jpeg
+Quel est le nom de ce trophée ?,Liga,recognize-trophy,easy,/src/src/image/trophy/liga.jpeg
+Quel est le nom de ce trophée ?,Bundesliga,recognize-trophy,easy,/src/src/image/trophy/bundesliga.jpeg
+Quel est le nom de ce trophée ?,Serie A,recognize-trophy,easy,/src/src/image/trophy/seriea.jpeg
+Quel est le nom de ce trophée ?,Coupe de la ligue,recognize-trophy,medium,/src/src/image/trophy/coupedelaligue.jpeg
+Quel est le nom de ce trophée ?,Coupe des nations,recognize-trophy,medium,/src/src/image/trophy/coupedesnations.jpeg
+Quel est le nom de ce trophée ?,Copa america,recognize-trophy,medium,/src/src/image/trophy/copaamerica.jpeg
+Quel est le nom de ce trophée ?,Copa del rey,recognize-trophy,medium,/src/src/image/trophy/copadelrey.jpeg
+Quel est le nom de ce trophée ?,Eredivisie,recognize-trophy,medium,/src/src/image/trophy/eredivisie.jpeg
+Quel est le nom de ce trophée ?,Coupe d'allemagne,recognize-trophy,hard,/src/src/image/trophy/coupedallemagne.jpeg
+Quel est le nom de ce trophée ?,Conference league,recognize-trophy,hard,/src/src/image/trophy/conferenceleague.jpeg
+Quel est le nom de ce trophée ?,Super lig,recognize-trophy,hard,/src/src/image/trophy/superlig.jpeg
+Quel est le nom de ce trophée ?,Trophée Kopa,recognize-trophy,hard,/src/src/image/trophy/kopa.jpeg
+Quel est le nom de ce trophée ?,Ligue 2,recognize-trophy,hard,/src/src/image/trophyligue2/.jpeg
+Quel est le nom de ce joueur ?,Lionel Messi,recognize-player,easy,/src/src/image/player/lionelmessi.jpeg
+Quel est le nom de ce joueur ?,Ronaldo Luís Nazário de Lima,recognize-player,easy,/src/src/image/player/ronaldo9.jpeg
+Quel est le nom de ce joueur ?,Robert Lewandowski,recognize-player,easy,/src/src/image/player/robertlewandowski.jpeg
+Quel est le nom de ce joueur ?,Eden Hazard,recognize-player,easy,/src/src/image/player/edenhazard.jpeg
+Quel est le nom de ce joueur ?,Kylian Mbappé,recognize-player,easy,/src/src/image/player/kylianmbappe.jpeg
+Quel est le nom de ce joueur ?,Erling Haaland,recognize-player,easy,/src/src/image/player/erlinghaaland.jpeg
+Quel est le nom de ce joueur ?,Zinedine Zidane,recognize-player,easy,/src/src/image/player/zinedinezidane.jpeg
+Quel est le nom de ce joueur ?,Thierry Henry,recognize-player,easy,/src/src/image/player/thierryhenry.jpeg
+Quel est le nom de ce joueur ?,Antoine Griezman,recognize-player,easy,/src/src/image/player/antoinegriezman.jpeg
+Quel est le nom de ce joueur ?,Cristiano Ronaldo,recognize-player,easy,/src/src/image/player/christianoronaldo.jpeg
+Quel est le nom de ce joueur ?,Diego Maradona,recognize-player,easy,/src/src/image/player/diegomaradona.jpeg
+Quel est le nom de ce joueur ?,"Edson Arantes do Nascimento, dit Pelé",recognize-player,easy,/src/src/image/player/pele.jpeg
+Quel est le nom de ce joueur ?,Hugo Lloris,recognize-player,easy,/src/src/image/player/hugolloris.jpeg
+Quel est le nom de ce joueur ?,Andres Iniesta,recognize-player,easy,/src/src/image/player/andresiniesta.jpeg
+Quel est le nom de ce joueur ?,Neymar Jr.,recognize-player,easy,/src/src/image/player/neymarjr.jpeg
+Quel est le nom de ce joueur ?,Didier Drogba,recognize-player,medium,/src/src/image/player/didierdrogba.jpeg
+Quel est le nom de ce joueur ?,Thiago Silva,recognize-player,medium,/src/src/image/player/thiagosilva.jpeg
+Quel est le nom de ce joueur ?,Toni Kroos,recognize-player,medium,/src/src/image/player/tonikroos.jpeg
+Quel est le nom de ce joueur ?,Mario Balotelli,recognize-player,medium,/src/src/image/player/mariobalotelli.jpeg
+Quel est le nom de ce joueur ?,Virgil van Dijk,recognize-player,medium,/src/src/image/player/virgilvandijk.jpeg
+Quel est le nom de ce joueur ?,Robin van Persie,recognize-player,medium,/src/src/image/player/robinvanpersie.jpeg
+Quel est le nom de ce joueur ?,Steven Gerrard,recognize-player,medium,/src/src/image/player/stevengerrard.jpeg
+Quel est le nom de ce joueur ?,Yassine Bounou,recognize-player,medium,/src/src/image/player/yassinebounou.jpeg
+Quel est le nom de ce joueur ?,Arjen Robben,recognize-player,medium,/src/src/image/player/arjenrobben.jpeg
+Quel est le nom de ce joueur ?,Son Heung-min,recognize-player,medium,/src/src/image/player/sonheungmin.jpeg
+Quel est le nom de ce joueur ?,Javier Pastore,recognize-player,medium,/src/src/image/player/javierpastore.jpeg
+Quel est le nom de ce joueur ?,André-Pierre Gignac,recognize-player,medium,/src/src/image/player/andrepierregignac.jpeg
+Quel est le nom de ce joueur ?,Mesut Ozïl,recognize-player,medium,/src/src/image/player/mesutozil.jpeg
+Quel est le nom de ce joueur ?,David Alaba,recognize-player,medium,/src/src/image/player/davidalaba.jpeg
+Quel est le nom de ce joueur ?,Nicolas Anelka,recognize-player,medium,/src/src/image/player/nicolasanelka.jpeg
+Quel est le nom de ce joueur ?,George Weah,recognize-player,hard,/src/src/image/player/georgeweah.jpeg
+Quel est le nom de ce joueur ?,Timothée Pembélé,recognize-player,hard,/src/src/image/player/timotheepembele.jpeg
+Quel est le nom de ce joueur ?,Amine Gouiri,recognize-player,hard,/src/src/image/player/aminegouiri.jpeg
+Quel est le nom de ce joueur ?,Hatem Ben Arfa,recognize-player,hard,/src/src/image/player/hatembenarfa.jpeg
+Quel est le nom de ce joueur ?,Steven Nzonzi,recognize-player,hard,/src/src/image/player/stevennzonzi.jpeg
+Quel est le nom de ce joueur ?,Serge Aurier,recognize-player,hard,/src/src/image/player/sergeaurier.jpeg
+Quel est le nom de ce joueur ?,Bixente Lizarazu,recognize-player,hard,/src/src/image/player/bixentelizarazu.jpeg
+Quel est le nom de ce joueur ?,Salvatore Sirigu,recognize-player,hard,/src/src/image/player/salvatoresirigu.jpeg
+Quel est le nom de ce joueur ?,Oscar dos santos emboaba júnio dit Oscar,recognize-player,hard,/src/src/image/player/oscar.jpeg
+Quel est le nom de ce joueur ?,Takefusa Kubo,recognize-player,hard,/src/src/image/player/takefusakubo.jpeg
+Quel est le nom de ce joueur ?,Weston McKennie,recognize-player,hard,/src/src/image/player/westonmckennie.jpeg
+Quel est le nom de ce joueur ?,Adama Traoré,recognize-player,hard,/src/src/image/player/adamatraore.jpeg
+Quel est le nom de ce joueur ?,Lamine Yamal,recognize-player,hard,/src/src/image/player/lamineyamal.jpeg
+Quel est le nom de ce joueur ?,Stéphane Ruffier,recognize-player,hard,/src/src/image/player/stephaneruffier.jpeg
+Quel est le nom de ce joueur ?,Jean-Pierre Papin,recognize-player,hard,/src/src/image/player/jeanpierrepapin.jpeg
+Quel est le nom de cet entraineur ?,Didier Deschamps,recognize-coach,easy,/src/src/image/coach/didierdeschamps.jpeg
+Quel est le nom de cet entraineur ?,Pep Guardiola,recognize-coach,easy,/src/src/image/coach/pepguardiola.jpeg
+Quel est le nom de cet entraineur ?,Xavi,recognize-coach,easy,/src/src/image/coach/xavi.jpeg
+Quel est le nom de cet entraineur ?,Luis Enrique,recognize-coach,easy,/src/src/image/coach/luisenrique.jpeg
+Quel est le nom de cet entraineur ?,Arsène Wenger,recognize-coach,easy,/src/src/image/coach/arsenewenger.jpeg
+Quel est le nom de cet entraineur ?,Carlo Ancelotti,recognize-coach,easy,/src/src/image/coach/carloancelotti.jpeg
+Quel est le nom de cet entraineur ?,Thomas Tuchel,recognize-coach,easy,/src/src/image/coach/thomastuchel.jpeg
+Quel est le nom de cet entraineur ?,José Mourinho,recognize-coach,easy,/src/src/image/coach/josemourinho.jpeg
+Quel est le nom de cet entraineur ?,Jürgen Klopp,recognize-coach,easy,/src/src/image/coach/jurgenklopp.jpeg
+Quel est le nom de cet entraineur ?,Laurent Blanc,recognize-coach,easy,/src/src/image/coach/laurentblanc.jpeg
+Quel est le nom de cet entraineur ?,Joachim Löw,recognize-coach,medium,/src/src/image/coach/joachimlow.jpeg
+Quel est le nom de cet entraineur ?,Antoine Kombouaré,recognize-coach,medium,/src/src/image/coach/antoinekombouare.jpeg
+Quel est le nom de cet entraineur ?,Mauricio Pochettino,recognize-coach,medium,/src/src/image/coach/mauriciopochettino.jpeg
+Quel est le nom de cet entraineur ?,Diego Simeone,recognize-coach,medium,/src/src/image/coach/diegosimeone.jpg
+Quel est le nom de cet entraineur ?,Sir Alex Ferguson,recognize-coach,medium,/src/src/image/coach/siralexferguson.jpeg
+Quel est le nom de cet entraineur ?,Simone Inzaghi,recognize-coach,hard,/src/src/image/coach/simeoneinzaghi.jpeg
+Quel est le nom de cet entraineur ?,Franck Haise,recognize-coach,hard,/src/src/image/coach/franckhaise.jpeg
+Quel est le nom de cet entraineur ?,Stefano Pioli,recognize-coach,hard,/src/src/image/coach/stefanopioli.jpeg
+Quel est le nom de cet entraineur ?,Massimiliano Allegri,recognize-coach,hard,/src/src/image/coach/massimilianoallegri.jpeg
+Quel est le nom de cet entraineur ?,Mikel Arteta,recognize-coach,hard,/src/src/image/coach/mikelarteta.jpeg
+Combien le PSG a remporté de Ligue 1 ?,11,club-trophy,easy,
+Combien le Réal de Madrid a remporté de ligue des Champions ?,14,club-trophy,easy,
+Combien l'Allemagne a remporté de coupe du monde ?,4,club-trophy,easy,
+Combien l'Espagne a remporté d'Euro ?,3,club-trophy,easy,
+Combien l'Atlético de Madird a remporté de ligue des Champions ?,0,club-trophy,easy,
+Combien la France a remporté d'Euro ?,2,club-trophy,easy,
+Combien le Danemark a remporté d'Euro ?,1,club-trophy,easy,
+Combien la Suède a remporté d'Euro ?,0,club-trophy,easy,
+Combien Marseille a remporté de ligue des Champions ?,1,club-trophy,easy,
+Combien Benfica a remporté de ligue des Champions ?,2,club-trophy,easy,
+Combien Saint Étienne a remporté de Ligue 1 ?,10,club-trophy,medium,
+Combien l'Algérie a remporté de CAN ?,2,club-trophy,medium,
+Combien l'Argentine a remporté de Copa America ?,15,club-trophy,medium,
+Combien la Grèce a remporté d'Euro ?,1,club-trophy,medium,
+Combien Séville a remporté d'Europa League ?,7,club-trophy,medium,
+Combien le Bayern Munich a remporté de Bundesliga ?,33,club-trophy,medium,
+Combien l'AC Milan a remporté de ligue des Champions ? ,7,club-trophy,medium,
+Combien l'Inter de Milan a remporté de ligue des Champions ?,3,club-trophy,medium,
+Combien la Brésil a remporté de Copa America ?,9,club-trophy,medium,
+Combien Lyon a remporté de Ligue 1 ?,7,club-trophy,medium,
+Combien Bordeaux a remporté de Ligue 1 ?,6,club-trophy,hard,
+Combien Nantes a remporté de coupe de France ?,4,club-trophy,hard,
+Combien Lyon a remporté de coupe de France ?,5,club-trophy,hard,
+Combien Marseille a remporté de coupe de la ligue ?,3,club-trophy,hard,
+Combien le FC Barcelone a remporté de coupe du monde des clubs ?,3,club-trophy,hard,
+Combien Galatasaray a remporté de Super Lig?,23,club-trophy,hard,
+Combien le Feyenoord Rotterdam a remporté d'Eredivise ?,16,club-trophy,hard,
+Combien l'Atlético de Madird a remporté d'Europa Leaugue ?,3,club-trophy,hard,
+Combien le Réal de Madrid a remporté de liga ?,35,club-trophy,hard,
+Combien la Juventus a remporté de série A ?,36,club-trophy,hard,
+Combien de saisons Achraf Hakimi est resté à l'Inter de Milan ?,1,year-club,easy,
+Combien de saisons Marco Veratti est resté au PSG ?,10,year-club,easy,
+Combien de saisons Cristiano Ronaldo est resté à la Juventus ?,3,year-club,easy,
+Combien de saisons Cristiano Ronaldo est resté au Réal Madrid ?,9,year-club,easy,
+Combien de saisons Messi est resté au FC Barcelone ?,21,year-club,easy,
+Combien de saisons Francesco Totti est resté à l'AS Roma?,19,year-club,medium,
+Combien de saisons Karim Benzema est resté au Réal Madrid ?,13,year-club,medium,
+Combien de saisons Iker Casillas est resté au Réal Madrid ?,25,year-club,medium,
+Combien de saisons Didier Drogba est resté à Chelsea ?,8,year-club,medium,
+Combien de saisons Steve Mandanda est resté l'Olympique de Marseille ?,10,year-club,medium,
+Combien de saisons Gianluigi Buffon est resté à la Juventus ?,17,year-club,hard,
+Combien de saisons Sergio Aguero est resté à Manchest City?,10,year-club,hard,
+Combien de saisons Thierry Henry est resté à Arsenal ?,8,year-club,hard,
+Combien de saisons Raphaël Varanne est resté au Réal Madrid ?,10,year-club,hard,
+Combien de saisons Hugo Lloris est resté à Lyon ?,4,year-club,hard,
+Citer le plus de joueurs ayant joués au PSG,,the-more,,
+Citer le plus de joueurs ayant joués au Réal de Madrid,,the-more,,
+Citer le plus de joueurs ayant joués au FC Barcelone,,the-more,,
+Citer le plus de joueurs ayant joués au Stade Rennais,,the-more,,
+Citer le plus de joueurs ayant joués à la Juventus,,the-more,,
+Citer le plus de joueurs ayant remportés la ligue des champions,,the-more,,
+Citer le plus de joueurs ayant remportés la coupe du monde,,the-more,,
+Citer le plus de joueurs ayant remportés la ligue 1,,the-more,,
+Citer le plus de joueurs ayant remportés la liga,,the-more,,
+Citer le plus de joueurs ayant remportés le ballon d'or,,the-more,,
+Citer le plus de joueurs ayant joués au LOSC,,the-more,,
+Citer le plus de joueurs ayant joués à Chelsea,,the-more,,
+Citer le plus de joueurs ayant joués à l'AC Milan,,the-more,,
+Citer le plus de joueurs ayant joués au Bayern Munich,,the-more,,
+Citer le plus de joueurs ayant joués en Saudi Pro Leaugue,,the-more,,
+Citer le plus de joueurs ayant joués en MLS ,,the-more,,
+Citer le plus de joueurs ayant été transféré pour plus de 100M€,,the-more,,
+Citer le plus de joueurs ayant joués à Manchest United,,the-more,,
+Qui est le président du PSG ?,Nasser Al-Khelaïfi,club-owner,easy,
+Qui est le président de l'olympique de Marseille ?,Pablo Longoria,club-owner,easy,
+Qui est le président du Réal Madrid ?,Florentino Péres,club-owner,easy,
+Qui est le président du FC Barcelone ?,Joan Laporta,club-owner,easy,
+Qui est le président de l'Inter Miami ?,David Beckham,club-owner,easy,
+Qui est le président du Real Valladoid ?,Ronaldo Nazario,club-owner,easy,
+Qui est le président de Newcastle ?,Mohammed Ben Salmane,club-owner,medium,
+Qui est le président de l'olympique Lyonnais ?,John Textor ,club-owner,medium,
+Qui est le président de Manchester City ?,Mansour bin Zayed Al Nahyan,club-owner,medium,
+Qui est le président le stade Rennais ?,La famille Pinault,club-owner,medium,
+Qui est le président du FC Andorre ?,Gerard Piqué,club-owner,medium,
+Qui est le président de Newcastle ?,Mohammed Ben Salmane,club-owner,medium,
+Qui est le président du Bayern Munich ?,Jan-Christian Dreesen,club-owner,hard,
+Qui est le président du Borussia Dortmund ?,Hans-Joachim Watzke,club-owner,hard,
+Qui est le président d'Arsenal ?,Enos Stanley Kroenke,club-owner,hard,
+Qui est le président de Chelsea ?,Todd Boehly,club-owner,hard,
+Qui est le président de Manchester United ?,Jim Ratcliffe,club-owner,hard,
+Qui est le président de Liverpool ?,Tom Werner,club-owner,hard,
+Qui est le président de l'AC Milan ?,Paolo Scaroni,club-owner,hard,
+Qui est le président de l'Inter de Milan ?,Steven Zhang,club-owner,hard,
+Qui est le président de la Juventus ?,Gianluca Ferrero,club-owner,hard,
+Combien de clubs a fait Francesco Totti en temps que pro ? ( prêt inclus ),1,club-number,easy,
+Combien de clubs a fait Eden Hazard en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Andres Iniesta en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Cristiano Ronaldo en temps que pro ? ( prêt inclus ),5,club-number,easy,
+Combien de clubs a fait Lionel Messi en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Antoine Griezmann en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Thomas Müller en temps que pro ? ( prêt inclus ),1,club-number,easy,
+Combien de clubs a fait Paul Pogba en temps que pro ? ( prêt inclus ),2,club-number,easy,
+Combien de clubs a fait Raphael Varanne en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Sergio Ramos en temps que pro ? ( prêt inclus ),3,club-number,easy,
+Combien de clubs a fait Marcelo Vieira da Silva Júnior en temps que pro ? ( prêt inclus ),3,club-number,medium,
+Combien de clubs a fait Romelu Lukaku en temps que pro ? ( prêt inclus ),7,club-number,medium,
+Combien de clubs a fait Zlatan Ibrahimovic en temps que pro? ( prêt inclus ),9,club-number,medium,
+Combien de clubs a fait Olivier Giroud en temps que pro ? ( prêt inclus ),7,club-number,medium,
+Combien de clubs a fait Virgil van Dijk en temps que pro ? ( prêt inclus ),4,club-number,medium,
+Combien de clubs a fait Kaylor Navas en temps que pro ? ( prêt inclus ),6,club-number,medium,
+Combien de clubs a fait Teji Savanier en temps que pro ? ( prêt inclus ),3,club-number,medium,
+Combien de clubs a fait Michel Platini en temps que pro ? ( prêt inclus ),3,club-number,medium,
+Combien de clubs a fait Ronaldo Nazario en temps que pro ? ( prêt inclus ),7,club-number,medium,
+Combien de clubs a fait Adama Traoré en temps que pro ? ( prêt inclus ),5,club-number,medium,
+Combien de clubs a fait Blaise Matuidi en temps que pro ? ( prêt inclus ),5,club-number,medium,
+Combien de clubs a fait Hatem Ben Arfa en temps que pro ? ( prêt inclus ),10,club-number,hard,
+Combien de clubs a fait Phillipe Coutinho en temps que pro ? ( prêt inclus ),8,club-number,hard,
+Combien de clubs a fait Franck Ribéry en temps que pro ? ( prêt inclus ),9,club-number,hard,
+Combien de clubs a fait Alphonse Aréola en temps que pro ? ( prêt inclus ),7,club-number,hard,
+Combien de clubs a fait Bafétimbi Gomis en temps que pro ? ( prêt inclus ),8,club-number,hard,
+Combien de clubs a fait Didier Drogba en temps que pro ? ( prêt inclus ),8,club-number,hard,
+Combien de clubs a fait Flaurient Thauvin en temps que pro ? ( prêt inclus ),7,club-number,hard,
+Combien de clubs a fait Mario Baloteli en temps que pro ? ( prêt inclus ),11,club-number,hard,
+Combien de clubs a fait Sadio Mané en temps que pro ? ( prêt inclus ),7,club-number,hard,
+Combien de clubs a fait Adil Rami en temps que pro ? ( prêt inclus ),10,club-number,hard,
+Donner la valeur en euro du transfert de Kylian Mbappé de l'AS Monaco vers le PSG ,180 millions,player-value,easy,
+Donner la valeur en euro du transfert de Neymar Jr du FC Barcelone vers le PSG,222 millions,player-value,easy,
+Donner la valeur en euro du transfert de Lionel Messi du FC Barcelone vers le PSG,Gratuit,player-value,easy,
+Donner la valeur en euro du transfert de Antoine Griezmann de l'Atlético de Madrid vers le FC Barcelone,120 millions,player-value,easy,
+Donner la valeur en euro du transfert de Erling Haaland du Borussia Dortmund vers Manchester City,60 millions,player-value,easy,
+Donner la valeur en euro du transfert de Cristiano Ronaldo du Réal Madrid vers la Juventus,117 millions,player-value,easy,
+Donner la valeur en euro du transfert de Paul Pogba de la Juventus vers Manchester United,105 millions,player-value,easy,
+Donner la valeur en euro du premier transfert de Paul Pogba de la Manchester United vers Juventus ,Gratuit,player-value,easy,
+Donner la valeur en euro du transfert de Neymar Jr du PSG vers Al-Hilal,90 millions,player-value,easy,
+Donner la valeur en euro du transfert d'Antony de l'Ajax Amsterdam vers Manchester united,95 millions,player-value,hard,
+Donner la valeur en euro du transfert d'Ousmane Dembélé du Borussia Dortmund vers le FC Barcelone,135 millions,player-value,easy,
+Donner la valeur en euro du transfert de Romelu Lukaku de l'Inter Milan vers Chelsea,113 millions,player-value,medium,
+Donner la valeur en euro du transfert de Jack Grealish de Aston Villa vers Manchester City,"117,5 millions",player-value,medium,
+Donner la valeur en euro du transfert d'Aurélien Tchouaméni vers l'AS Monaco au Réal Madid,80 millions,player-value,medium,
+Donner la valeur en euro du transfert de Robert Lewandowski du Bayern Munich vers Barcelone,45 millions,player-value,medium,
+Donner la valeur en euro du transfert de Jadon Sancho du Borussia Dortmund vers Manchester United,85 milliions,player-value,medium,
+Donner la valeur en euro du transfert d'Harry Maguire de Leicester vers Manchester United,87 millions,player-value,medium,
+Donner la valeur en euro du transfert de Darwin Núñez du Benfica vers Liverpool,85 millions,player-value,medium,
+Donner la valeur en euro du transfert de Gareth Bale de Tottenham vers le Réal Madrid,101 millions,player-value,medium,
+Donner la valeur en euro du transfert de Moisés Caicedo de Brighton vers Celsea,116 millions,player-value,medium,
+Donner la valeur en euro du transfert de Ibrahima Konaté du RB Leipzig vers Liverpoool,40 millions,player-value,medium,
+Donner la valeur en euro du transfert de Nicolas Pépé du LOSC vers Arsenal,80 millions,player-value,hard,
+Donner la valeur en euro du transfert d'Antony de l'Ajax Amsterdam vers Manchester united,95 millions,player-value,hard,
+Donner la valeur en euro du transfert de Declan Rice de West Ham vers Arsenal,"116,6 millions",player-value,hard,
+Donner la valeur en euro du transfert de Enzo Fernádez de Benfica vers Chelsea,121 millions,player-value,hard,
+Donner la valeur en euro du transfert de Vinicius Junior du Flamengo vers le Réal Madrid,45 millions,player-value,hard,
+Donner la valeur en euro du transfert de Lucas Moura du FC São Paulo vers le psg,40 millions,player-value,hard,
+Donner la valeur en euro du transfert de Malcolm du Zenit Saint-Pétersbourg vers Al-Hillal,60 millions,player-value,hard,
+Donner la valeur en euro du transfert de Thiago Silva de l'AC Milan vers PSG,42 millions,player-value,hard,
+Donner la valeur en euro du transfert de Thomas Lemar de l'AS Monaco vers Atlético Madrid,72 millions,player-value,hard,
+Donner la valeur en euro du transfert de Zlatan Ibrahimovic de l'AC Milan vers le PSG,21 millions,player-value,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Serbie,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Danemark,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de l'Uruguay,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de la Côte d'Ivoire,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Nigéria,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Sénégal,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Canada,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale des États-unis,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale d'Angleterr,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Corée du nord,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale des Pays bas,,find-player,easy,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de la Hongrie,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale d'Ukraine,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Grèce,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Suède,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Japon,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de l'Inde,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Colombie,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Costa Rica,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Chili,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de l'Algérie,,find-player,medium,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de la Turquie,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Chili,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de l'Irlande,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Norvège,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale d'Autriche,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Gabon,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Ghana,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale du Libéria,,find-player,hard,
+Trouver un joueur ayant déjà jouer pour l'équipe nationale de Russie,,find-player,hard,
+Tourver un joueur ayant déjà joueur pour l'équipe nationale du Mexique,,find-player,hard,
+Comment s'appelle ce chant de supporter ?,You will never walk alone,song,easy,./src/src/song/younerverwalkalone.mp3
+Comment s'appelle ce chant de supporter ?,Aux armes (Olymipique de Marseille),song,easy,./src/src/song/auxarmes.mp3
+Comment s'appelle ce chant de supporter ?,Les corons (Stade de Lens),song,easy,./src/src/song/lescorons.mp3
+Comment s'appelle ce chant de supporter ?,El cant del barca (FC Barcelone),song,medium,./src/src/song/barca.mp3
+Comment s'appelle ce chant de supporter ?,Sara perche ti amo (AC Milan),song,easy,./src/src/song/saraperquetiamo.mp3
+Comment s'appelle ce chant de supporter ?,Hala madrid y nadas mas (Réal Madrid),song,medium,./src/src/song/halamadrid.mp3
+Comment s'appelle ce chant de supporter ?,Allez les verts (AS Saint Étienne),song,medium,./src/src/song/allerlesverts.mp3
+Comment s'appelle ce chant de supporter ?,O ville lumière (Paris Saint Germain),song,medium,./src/src/song/villelumiere.mp3
+Comment s'appelle ce chant de supporter ?,Ser Benfiquista (Benfiqua),song,hard,./src/src/song/serbenfiquista.mp3
+Comment s'appelle ce chant de supporter ?,Forever blowing bubbles (West Ham),song,hard,./src/src/song/westham.mp3
+Comment s'appelle ce chant de supporter ?,Glory Glory (Manchester United),song,hard,./src/src/song/gloryglory.mp3
+"Donnner toutes les étapes du score de la finale de la coupe du monde 2018, France Croatie",1-0 / 1-1 / 2-1 / 3-1 / 4-1 / 4-2,score-evolution,medium,
+"Donnner toutes les étapes du score de la finale de la coupe du monde 2022, France Argentine",0-1 / 0-2 / 1-2 / 2-2 / 2-3 / 3-3,score-evolution,medium,
+"Donnner toutes les étapes du score du match aller-retour de demi finale de ligue des Champions 2022, Manchester City Réal Madrid",1-0 / 2-0 / 2-1 / 3-1 / 3-2 / 4-2 / 4-3 / 5-3 / 5-4 / 5-5 / 5-6 ,score-evolution,hard,
+"Donnner toutes les étapes du score du match aller-retour de 8e de finale de ligue des Champions 2022, PSG Réal Madrid",1-0 / 2-0 / 2-1 / 2-2 / 2-3,score-evolution,medium,
+"Donnner toutes les étapes du score des 8e de finale de la coupe du monde 2018, France Argentine",1-0 / 1-1 / 1-2 / 2-2 / 3-2 / 4-2 / 4-3,score-evolution,medium,
+"Donnner toutes les étapes du score du match aller-retour de 8e de finale de ligue des Champions 2017, PSG FC Barcelone",1-0 / 2-0 / 3-0 / 4-0 / 4-1 / 4-2 / 4-3 / 5-3 / 5-4 / 5-5 / 5-6,score-evolution,hard,
+"Donnner toutes les étapes du score de la finale de la coupe du monde 2010, Espagne Pays-Bas",1-0,score-evolution,easy,
+"Donnner toutes les étapes du score de la finale de la coupe du monde 2014, Allemagne Argentine",1-0,score-evolution,easy,
+"Donnner toutes les étapes du score du match de la finale de ligue des Champions 2014, Atlético Madrid Réal Madrid",1-0 / 1-1 / 1-2 / 1-3 / 1-4 ,score-evolution,easy,
+"Donnner toutes les étapes du score du match aller-retour de demi finale de ligue des Champions 2019, Liverpool FC Barcelone",0-1 / 0-2 / 0-3 / 1-3 / 2-3 / 3-3 / 4-3,score-evolution,hard,
+"Donnner toutes les étapes du score du match de quart de finale de ligue des Champions 2020, Bayern Munich FC Barcelone",1-0 / 1-1 / 2-1 / 3-1 / 4-1 / 4-2 / 5-2 / 6-2 / 7-2 / 8-2,score-evolution,hard,
+"Donnner toutes les étapes du score du match de demi finale de ligue des Champions 2013, Bayern Munich FC Barcelone",1-0 / 2-0 / 3-0 / 4-0 / 5-0 / 6-0 / 7-0,score-evolution,medium,
+"Donnner toutes les étapes du score du match de quart de finale de ligue des Champions 2020, Atalanta PSG",1-0 / 1-1 / 1-2,score-evolution,easy,
+"Donnner toutes les étapes du score du match de quart de finale de ligue des Champions 2020, Lyon Manchester City",1-0 / 1-1 / 2-1 / 3-1,score-evolution,medium,
+"Donnner toutes les étapes du score du match de demi finale de ligue des Champions 2018, Liverpool AS Roma",1-0 / 2-0 / 3-0 / 4-0 / 5-0 / 5-1 / 5-2 / 6-2 / 6-3 / 7-3 / 7-4 / 7-5 / 7-6,score-evolution,hard,
+"Donnner toutes les étapes du score du match de la finale de ligue des Champions 2017, Juventus Réal Madrid",0-1 / 1-1 / 1-2 / 1-3 / 1-4,score-evolution,medium,
+"Donnner toutes les étapes du score du match aller-retour de quart de finale de ligue des Champions 2012, Marseille Bayern Munich",0-1 / 0-2 / 0-3 / 0-4,score-evolution,easy,
+"Donnner toutes les étapes du score du match de demi finale de coupe du Monde 2022 , Argentine Croatie",1-0 / 2-0 / 3-0,score-evolution,easy,
+"Donnner toutes les étapes du score du match de 8e de finale d'Euro 2021 , France Suisse",0-1 / 1-1 / 2-1 / 3-1 / 3-2 / 3-3,score-evolution,medium,
+"Donnner toutes les étapes du score du match de demi finale d'Euro 2016 , Pays de Galle Portugal",0-1 / 0-2 ,score-evolution,easy,
+"Donnner tous les buteurs de la finale de la coupe du monde 2018, France Croatie",M. Mandzukic (csc) - A. Griezmann - P. Pogba - K. Mbappé - I. Perisic - M. Mandzukic,scorer,medium,
+"Donnner tous les buteurs de la finale de la coupe du monde 2022, France Argentine",A. Di Maria - L. Messi - K. Mbappé,scorer,easy,
+"Donnner tous les buteurs du match aller-retour de demi finale de ligue des Champions 2022, Manchester City Réal Madrid",K. De Bruyne - G. Jesus - P. Foden - B. Silva -K. Benzema- Vinicius Junior - Rodrygo - R. Mahrez,scorer,medium,
+"Donnner tous les buteurs du match aller-retour de 8e de finale de ligue des Champions 2022, PSG Réal Madrid",K. Mbappé - K. Benzema,scorer,easy,
+"Donnner tous les buteurs des 8e de finale de la coupe du monde 2018, France Argentine",A. Griezmann - B. Pavard - K. Mbappé - A. Di Maria - G. Mercado - S. Agüero,scorer,medium,
+"Donnner tous les buteurs du match aller-retour de 8e de finale de ligue des Champions 2017, PSG FC Barcelone",L. Suarez - L. Kurzawa (csc) - L. Messi- Neymar - S. Roberto - E. Cavani - A. Di Maria - J. Draxler ,scorer,hard,
+"Donnner tous les buteurs de la finale de la coupe du monde 2010, Espagne Pays-Bas",A. Iniesta,scorer,easy,
+"Donnner tous les buteurs de la finale de la coupe du monde 2014, Allemagne Argentine",M. Götze,scorer,easy,
+"Donnner tous les buteurs du match de la finale de ligue des Champions 2014, Atlético Madrid Réal Madrid",S. Ramos - G. Bale - Marcelo - C. Ronaldo - D. Godin,scorer,medium,
+"Donnner tous les buteurs du match aller-retour de demi finale de ligue des Champions 2019, Liverpool FC Barcelone",L. Suarez - L. Messi - G. Wijnaldum - D. Origi,scorer,hard,
+"Donnner tous les buteurs du match de quart de finale de ligue des Champions 2020, Bayern Munich FC Barcelone",D. Alaba (csc) - L. Suarez - T. Müller - I. Perisic - S. Gnabry - T. Müller - J. Kimmich - R. Lewandowski - P. Coutinho,scorer,hard,
+"Donnner tous les buteurs du match de demi finale de ligue des Champions 2013, Bayern Munich FC Barcelone",M. Gomez - T. Müller - A. Robben - G. Piqué (csc),scorer,hard,
+"Donnner tous les buteurs du match de quart de finale de ligue des Champions 2020, Atalanta PSG",M. Pasalic - Marquinhos - E. Choupo-Motting,scorer,medium,
+"Donnner tous les buteurs du match de quart de finale de ligue des Champions 2020, Lyon Manchester City",S. Gnabry - R. Lewandowski,scorer,medium,
+"Donnner tous les buteurs du match de demi finale de ligue des Champions 2018, Liverpool AS Roma",M. Salah - S. Mané -  R. Firmino - E. Dzeko - D. Perotti - J. Milner (csc) - R. Nainggolan - G. Wijnaldum,scorer,hard,
+"Donnner tous les buteurs du match de la finale de ligue des Champions 2017, Juventus Réal Madrid",M. Mandzukic - C. Ronaldo - C. Casemiro - M. Asensio -,scorer,medium,
+"Donnner tous les buteurs du match aller-retour de quart de finale de ligue des Champions 2012, Marseille Bayern Munich",M. Gomez - A. Robben - I. Olic,scorer,hard,
+"Donnner tous les buteurs du match de demi finale de coupe du Monde 2022 , Argentine Croatie",L. Messi - J. Alvarez,scorer,easy,
+"Donnner tous les buteurs du match de 8e de finale d'Euro 2021 , France Suisse",K. Benzema - P. Pogba -H. Seferovic - M. Gavranovic,scorer,hard,
+"Donnner tous les buteurs du match de demi finale d'Euro 2016 , Pays de Galle Portugal",C. Ronaldo - Nani,scorer,easy,
+Quel est ce championnat ?,Ligue 1 (France),recognize-championship,easy,/src/src/image/championship/ligue-1.png
+Quel est ce championnat ? ,Ligue 2 (France),recognize-championship,easy,/src/src/image/championship/ligue-2.png
+Quel est ce championnat ?,Liga (Espagne),recognize-championship,easy,/src/src/image/championship/laliga.png
+Quel est ce championnat ?,Premier League (Angleterre),recognize-championship,easy,/src/src/image/championship/premier-league.png
+Quel est ce championnat ?,Serie A (Italie),recognize-championship,easy,/src/src/image/championship/serie-a.png
+Quel est ce championnat ?,Bundesliga (Allemagne),recognize-championship,easy,/src/src/image/championship/bundesliga.png
+Quel est ce championnat ?,Primeira Liga (Portugal),recognize-championship,easy,/src/src/image/championship/primeira-liga.png
+Quel est ce championnat ?,Jupiler Pro League (Belgique),recognize-championship,medium,/src/src/image/championship/challenger-pro-league.png
+Quel est ce championnat ?,Eredivisie (Pays-bas),recognize-championship,medium,/src/src/image/championship/eredivisie.png
+Quel est ce championnat ?,Super Lig (Turquie),recognize-championship,medium,/src/src/image/championship/super-lig.png
+Quel est ce championnat ?,MLS (États-Unis et Canada),recognize-championship,medium,/src/src/image/championship/mls.png
+Quel est ce championnat ?,Championship (Angleterre),recognize-championship,medium,/src/src/image/championship/championship.png
+Quel est ce championnat ?,Super League (Suisse),recognize-championship,medium,/src/src/image/championship/super-league-suisse.png
+Quel est ce championnat ?,2. Bundesliga (Allemagne),recognize-championship,medium,/src/src/image/championship/2-bundesliga.png
+Quel est ce championnat ?,Brasileiro (Brésil),recognize-championship,medium,/src/src/image/championship/brasileiro.png
+Quel est ce championnat ?,Premiership (Écosse),recognize-championship,medium,/src/src/image/championship/premiership.png
+Quel est ce championnat ?,Super League (Grèce),recognize-championship,medium,/src/src/image/championship/super-league-grece.png
+Quel est ce championnat ?,Super League (Chine),recognize-championship,hard,/src/src/image/championship/super-league-chine.png
+Quel est ce championnat ?,Saudi Professional League (Arabie Saoudite),recognize-championship,hard,/src/src/image/championship/saudi-professional-league.png
+Quel est ce championnat ?,Parva Liga (Bulgarie),recognize-championship,hard,/src/src/image/championship/parva-liga.png
+Quel est ce championnat ?,Premier League (Russie),recognize-championship,hard,/src/src/image/championship/premier-league-russie.png
+Quel est ce championnat ?,Primera Divisió (Andorre),recognize-championship,hard,/src/src/image/championship/primera-divisio.png
+Quel est ce championnat ?,Bundesliga (Autriche),recognize-championship,hard,/src/src/image/championship/bundeslga-autriche.png
+Quel est ce championnat ? ,J1 League (Japon),recognize-championship,hard,/src/src/image/championship/j1-league.png
+Quel est ce championnat ?,Liga MX (Mexique),recognize-championship,hard,/src/src/image/championship/liga-mx.png
+Quel est ce championnat ?,Prva liga (Slovénie),recognize-championship,hard,/src/src/image/championship/prva-liga.png
+Quel est ce championnat ?,Botola Pro 1 (Maroc),recognize-championship,hard,/src/src/image/championship/botola-pro-1.png
+C'est le maillot de quelle équipe ?,Équipe de France,recognize-jersey,easy,/src/src/image/jersey/france.png
+C'est le maillot de quelle équipe ?,Brésil,recognize-jersey,easy,/src/src/image/jersey/bresil.png
+C'est le maillot de quelle équipe ?,Real Madrid,recognize-jersey,easy,/src/src/image/jersey/real-madrid.png
+C'est le maillot de quelle équipe ?,Barcelone,recognize-jersey,easy,/src/src/image/jersey/barcelone.png
+C'est le maillot de quelle équipe ?,Paris Saint Germains,recognize-jersey,easy,/src/src/image/jersey/psg.png
+C'est le maillot de quelle équipe ?,Manchester United,recognize-jersey,easy,/src/src/image/jersey/manchester-united.png
+C'est le maillot de quelle équipe ?,Manchester City,recognize-jersey,easy,/src/src/image/jersey/manchester-city.png
+C'est le maillot de quelle équipe ?,Juventus,recognize-jersey,easy,/src/src/image/jersey/juventus.png
+C'est le maillot de quelle équipe ?,AC Milan,recognize-jersey,easy,/src/src/image/jersey/ac-milan.png
+C'est le maillot de quelle équipe ?,Espagne,recognize-jersey,easy,/src/src/image/jersey/espagne.png
+C'est le maillot de quelle équipe ?,Italie,recognize-jersey,easy,/src/src/image/jersey/italie.png
+C'est le maillot de quelle équipe ?,Portugal,recognize-jersey,easy,/src/src/image/jersey/portugal.png
+C'est le maillot de quelle équipe ?,Chelsea,recognize-jersey,easy,/src/src/image/jersey/cheslea.png
+C'est le maillot de quelle équipe ?,Bayern Munich,recognize-jersey,easy,/src/src/image/jersey/bayern-munich.png
+C'est le maillot de quelle équipe ?,Marseille,recognize-jersey,easy,/src/src/image/jersey/marseille.png
+C'est le maillot de quelle équipe ?,Inter Milan,recognize-jersey,easy,/src/src/image/jersey/inter-milan.png
+C'est le maillot de quelle équipe ?,Porto,recognize-jersey,medium,/src/src/image/jersey/porto.png
+C'est le maillot de quelle équipe ?,Atletico Madrid,recognize-jersey,medium,/src/src/image/jersey/atletico-madrid.png
+C'est le maillot de quelle équipe ?,Lens,recognize-jersey,medium,/src/src/image/jersey/lens.png
+C'est le maillot de quelle équipe ?,Rennes,recognize-jersey,medium,/src/src/image/jersey/rennes.png
+C'est le maillot de quelle équipe ?,Seville,recognize-jersey,medium,/src/src/image/jersey/seville.png
+C'est le maillot de quelle équipe ?,Monaco,recognize-jersey,medium,/src/src/image/jersey/monaco.png
+C'est le maillot de quelle équipe ?,Sassuolo,recognize-jersey,medium,/src/src/image/jersey/sassuolo.png
+C'est le maillot de quelle équipe ?,Fiorentina,recognize-jersey,medium,/src/src/image/jersey/fiorentina.png
+C'est le maillot de quelle équipe ?,Belgique,recognize-jersey,medium,/src/src/image/jersey/belgique.png
+C'est le maillot de quelle équipe ?,Allemagne,recognize-jersey,medium,/src/src/image/jersey/allemagne.png
+C'est le maillot de quelle équipe ?,Angleterre,recognize-jersey,medium,/src/src/image/jersey/angleterre.png
+C'est le maillot de quelle équipe ?,Lille,recognize-jersey,medium,/src/src/image/jersey/lille.png
+C'est le maillot de quelle équipe ?,Real Sociedad,recognize-jersey,medium,/src/src/image/jersey/real-sociedad.png
+C'est le maillot de quelle équipe ?,Newcastle,recognize-jersey,medium,/src/src/image/jersey/newcastle.png
+C'est le maillot de quelle équipe ?,RB Leipzig,recognize-jersey,medium,/src/src/image/jersey/rb-leipzig.png
+C'est le maillot de quelle équipe ?,Brentford,recognize-jersey,hard,/src/src/image/jersey/brentford.png
+C'est le maillot de quelle équipe ?,Mexique,recognize-jersey,hard,/src/src/image/jersey/mexique.png
+C'est le maillot de quelle équipe ?,Bournemouth,recognize-jersey,hard,/src/src/image/jersey/bournemouth.png
+C'est le maillot de quelle équipe ?,Burnley,recognize-jersey,hard,/src/src/image/jersey/burnley.png
+C'est le maillot de quelle équipe ?,Auxerrre,recognize-jersey,hard,/src/src/image/jersey/auxerre.png
+C'est le maillot de quelle équipe ?,Lorient,recognize-jersey,hard,/src/src/image/jersey/lorient.png
+C'est le maillot de quelle équipe ?,Reims,recognize-jersey,hard,/src/src/image/jersey/reims.png
+C'est le maillot de quelle équipe ?,Wolfsburg,recognize-jersey,hard,/src/src/image/jersey/wolfsburg.png
+C'est le maillot de quelle équipe ?,Hoffenheim,recognize-jersey,hard,/src/src/image/jersey/hoffenheim.png
+C'est le maillot de quelle équipe ?,Fribourg,recognize-jersey,hard,/src/src/image/jersey/fribourg.png
+C'est le maillot de quelle équipe ?,Alavès,recognize-jersey,hard,/src/src/image/jersey/alaves.png
+C'est le maillot de quelle équipe ?,Cadiz,recognize-jersey,hard,/src/src/image/jersey/cadiz.png
+C'est le maillot de quelle équipe ?,Girona,recognize-jersey,hard,/src/src/image/jersey/girona.png
+C'est le maillot de quelle équipe ?,Lecce,recognize-jersey,hard,/src/src/image/jersey/lecce.png
+C'est le maillot de quelle équipe ?,Torino,recognize-jersey,hard,/src/src/image/jersey/torino.png
+Quel est ce moment ? ,La remontada Barça-PSG,recognize-moment,easy,/src/src/image/moment/remontada.webp
+Quel est ce moment ? ,Le coup de tête de ZIdane,recognize-moment,easy,/src/src/image/moment/zidane.jpeg
+Quel est ce moment ? ,Égalisation en final de Mbappe en final France - Argentine,recognize-moment,easy,/src/src/image/moment/egalisation-france-argentine.jpeg
+Quel est ce moment ? ,La victoire de la France à la Coupe du Monde 2018,recognize-moment,easy,/src/src/image/moment/coupe-du-monde-2018.webp
+Quel est ce moment ? ,Le transfert record de Neymar au Paris Saint-Germain en 2017,recognize-moment,easy,/src/src/image/moment/transfert-neymar.joeg
+Quel est ce moment ? ,La retourné de Zlatan avec la Suède,recognize-moment,easy,/src/src/image/moment/zlatan.jpeg
+Quel est ce moment ? ,La main de dieu de Maradona,recognize-moment,easy,/src/src/image/moment/maradona-la-main-de-dieu.jpeg
+Quel est ce moment ? ,Le sacre du Portugal à l'Euro 2016,recognize-moment,easy,/src/src/image/moment/portugal-euro-2016.jpeg
+Quel est ce moment ? ,Le transfert de Kylian Mbappé au Paris Saint-Germain en 2017,recognize-moment,easy,/src/src/image/moment/transfert-mbappe.jpeg
+Quel est ce moment ? ,La main de Thierry Henry,recognize-moment,easy,/src/src/image/moment/thierry-henry.webp
+Quel est ce moment ? ,La main de Suarez face au Ghana,recognize-moment,medium,/src/src/image/moment/main-suarez.png
+Quel est ce moment ? ,Luis Suárez mord Giorgio Chiellini,recognize-moment,medium,/src/src/image/moment/morsure-suarez.jpeg
+Quel est ce moment ? ,La tête de Van Persie,recognize-moment,medium,/src/src/image/moment/vanpersie.webp
+Quel est ce moment ? ,Lionel Messi quitte le Barça,recognize-moment,medium,/src/src/image/moment/messi-transfert.jpeg
+Quel est ce moment ? ,La Premier League de Leicester,recognize-moment,medium,/src/src/image/moment/pl-leicester.jpeg
+Quel est ce moment ? ,Le sacre de Liverpool en Ligue des champions 2018-2019,recognize-moment,medium,/src/src/image/moment/ldc-liverpool.jpeg
+Quel est ce moment ? ,La Ligue des Champions de l'OM,recognize-moment,medium,/src/src/image/moment/om-ldc.jpeg
+Quel est ce moment ? ,Le transfert de Cristiano Ronaldo de Real Madrid à la Juventus en 2018,recognize-moment,medium,/src/src/image/moment/transfer-ronaldo.webp
+Quel est ce moment ? ,Le transfert de Cristiano Ronaldo du Sporting Portugal à Manchester United en 2003,recognize-moment,medium,/src/src/image/moment/transfert-ronaldo-manchester.jpeg
+Quel est ce moment ? ,Le sacre de l'Espagne à l'Euro 2012,recognize-moment,medium,/src/src/image/moment/euro-2012-espagne.webp
+Quel est ce moment ? ,Le départ de Sir Alex Ferguson de Manchester United en 2013,recognize-moment,hard,/src/src/image/moment/depart-manchester.jpeg
+Quel est ce moment ? ,Le coup de Kung-Fu d'Eric Cantona,recognize-moment,hard,/src/src/image/moment/cantona.webp
+Quel est ce moment ? ,La victoire de la Grèce à l'Euro 2004,recognize-moment,hard,/src/src/image/moment/euro-2014-grece.avif
+Quel est ce moment ? ,L’OM humilié par les amateurs de Canet-en-Roussillon,recognize-moment,hard,/src/src/image/moment/canet-om.webp
+Quel est ce moment ? ,Le premier match de Messi au Barça,recognize-moment,hard,/src/src/image/moment/premier-match-messi.webp
+Quel est ce moment ? ,La victoire de l'Algérie à la Coupe d'Afrique des nations 2019,recognize-moment,hard,/src/src/image/moment/can-algerie.jpeg
+Quel est ce moment ? ,2022 : Le premier Ballon d'Or féminin,recognize-moment,hard,/src/src/image/moment/bo-feminin.avif
+Quel est ce moment ? ,"Le ""7-1"" historique entre l'Allemagne et le Brésil en demi-finale de la Coupe du Monde ",recognize-moment,hard,/src/src/image/moment/allemagne-bresil.jpeg
+Quel est ce moment ? ,Le but d'Eder en final de l'Euro 2016,recognize-moment,hard,/src/src/image/moment/eder-euro.jpeg
+Quel est ce moment ? ,Le penalty manqué par Baggio (1994),recognize-moment,hard,/src/src/image/moment/baggio.avif
+Quel est ce tifo ?,Manchester City,recognize-tifo,easy,/src/src/image/tifo/manchester-city.jpeg
+Quel est ce tifo ?,L'Olympique de Marseille,recognize-tifo,easy,/src/src/image/tifo/marseille.jpeg
+Quel est ce tifo ?,L'Olympique Lyonnais,recognize-tifo,easy,/src/src/image/tifo/lyon.jpeg
+Quel est ce tifo ?,Paris Saint Germains,recognize-tifo,easy,/src/src/image/tifo/paris-saint-germains.jpeg
+Quel est ce tifo ?,Inter Milan,recognize-tifo,easy,/src/src/image/tifo/inter-milan.jpeg
+Quel est ce tifo ?,Chelsea,recognize-tifo,easy,/src/src/image/tifo/chelsea.webp
+Quel est ce tifo ?,Galatasaray,recognize-tifo,easy,/src/src/image/tifo/galatasaray.jpg_large
+Quel est ce tifo ?,Real Madrid,recognize-tifo,easy,/src/src/image/tifo/real-madrid.webp
+Quel est ce tifo ?,Atalanta ,recognize-tifo,easy,/src/src/image/tifo/atalanta.jpeg
+Quel est ce tifo ?,Barcelone,recognize-tifo,easy,/src/src/image/tifo/barcelone.jpeg
+Quel est ce tifo ?,Young Boys,recognize-tifo,medium,/src/src/image/tifo/young-boys.jpeg
+Quel est ce tifo ?,Newcastle,recognize-tifo,medium,/src/src/image/tifo/newcastle.jpeg
+Quel est ce tifo ?,Anderlecht,recognize-tifo,medium,/src/src/image/tifo/anderlecht.webp
+Quel est ce tifo ?,Rennes,recognize-tifo,medium,/src/src/image/tifo/rennes.avif
+Quel est ce tifo ?,Borussia Dortmund,recognize-tifo,medium,/src/src/image/tifo/dortmund.jpeg
+Quel est ce tifo ?,Real Betis,recognize-tifo,medium,/src/src/image/tifo/real-betis.jpeg
+Quel est ce tifo ?,Palmeiras,recognize-tifo,medium,/src/src/image/tifo/palmeiras.jpeg
+Quel est ce tifo ?,AC Milan,recognize-tifo,medium,/src/src/image/tifo/ac-milan.jpeg
+Quel est ce tifo ?,Manchester United,recognize-tifo,medium,/src/src/image/tifo/manchester-united.webp
+Quel est ce tifo ?,Glasgow Rangers,recognize-tifo,medium,/src/src/image/tifo/glasgow-rangers.jpeg
+Quel est ce tifo ?,Olympiakos,recognize-tifo,hard,/src/src/image/tifo/olympiacos.jpeg
+Quel est ce tifo ?,Atletico Madrid,recognize-tifo,hard,/src/src/image/tifo/atletico-madrid.jpeg
+Quel est ce tifo ?,Bursaspor,recognize-tifo,hard,/src/src/image/tifo/bursaspor.jpeg
+Quel est ce tifo ?,Twente,recognize-tifo,hard,/src/src/image/tifo/twente.jpeg
+Quel est ce tifo ?,Lens,recognize-tifo,hard,/src/src/image/tifo/lens.jpeg
+Quel est ce tifo ?,FC Bale,recognize-tifo,hard,/src/src/image/tifo/fc-bale.jpeg
+Quel est ce tifo ?,Union Berlin,recognize-tifo,hard,/src/src/image/tifo/union-berlin.jpeg
+Quel est ce tifo ?,Nottingham Forest,recognize-tifo,hard,/src/src/image/tifo/nottingham-forest.jpeg
+Quel est ce tifo ?,Standard de Liège,recognize-tifo,hard,/src/src/image/tifo/standard-de-liege.jpeg
+Quel est ce tifo ?,LA Galaxy,recognize-tifo,hard,/src/src/image/tifo/la-galaxy.jpg_large
+Écrit parfaitement le nom de ce joueur,Xherdan Shaqiri,spelling,easy,/src/src/image/spelling/xherdan-shaqiri.png
+Écrit parfaitement le nom de ce joueur,Thomas Delaney,spelling,easy,/src/src/image/spelling/thomas-delaney.png
+Écrit parfaitement le nom de ce joueur,Tanguy Ndombélé,spelling,easy,/src/src/image/spelling/tanguy-ndombele.png
+Écrit parfaitement le nom de ce joueur,Joachim Andersen,spelling,easy,/src/src/image/spelling/joachim-anderen.png
+Écrit parfaitement le nom de ce joueur,Nicolò Zaniolo,spelling,easy,/src/src/image/spelling/nicolo-zaniolo.png
+Écrit parfaitement le nom de ce joueur,Marcel Sabitzer,spelling,easy,/src/src/image/spelling/marcel-sabitzer.png
+Écrit parfaitement le nom de ce joueur,Lautaro Martínez,spelling,easy,/src/src/image/spelling/lautaro-martinez.png
+Écrit parfaitement le nom de ce joueur,Breel Embolo,spelling,easy,/src/src/image/spelling/breel-embolo.png
+Écrit parfaitement le nom de ce joueur,Serge Gnabry,spelling,easy,/src/src/image/spelling/serge-gnabry.png
+Écrit parfaitement le nom de ce joueur,Raphaël Guerreiro ,spelling,easy,/src/src/image/spelling/raphael-guerreiro.png
+Écrit parfaitement le nom de ce joueur,Oleksandr Zinchenko,spelling,medium,/src/src/image/spelling/oleksandr-zinchenko.png
+Écrit parfaitement le nom de ce joueur,Andriy Shevchenko,spelling,medium,/src/src/image/spelling/andriy-shevchenko.png
+Écrit parfaitement le nom de ce joueur,Arnaud Kalimuendo,spelling,medium,/src/src/image/spelling/arnaud-kalimuendo.png
+Écrit parfaitement le nom de ce joueur,Pierre-Emerick Aubameyang,spelling,medium,/src/src/image/spelling/pierre-emerick-aubameyang.png
+Écrit parfaitement le nom de ce joueur,João Palhinha ,spelling,medium,/src/src/image/spelling/joao-palhinha.png
+Écrit parfaitement le nom de ce joueur,Yussuf Poulsen ,spelling,medium,/src/src/image/spelling/yussuf-poulsen.png
+Écrit parfaitement le nom de ce joueur,Martin Ødegaard,spelling,medium,/src/src/image/spelling/martin-odegaard.png
+Écrit parfaitement le nom de ce joueur,Robert Lewandowski,spelling,medium,/src/src/image/spelling/robert-lewandowski.png
+Écrit parfaitement le nom de ce joueur,Gianluigi Donnarumma,spelling,medium,/src/src/image/spelling/gianluigi-donnarumma.png
+Écrit parfaitement le nom de ce joueur,Victor Osimhen,spelling,medium,/src/src/image/spelling/victor-osimhen.png
+Écrit parfaitement le nom de ce joueur,Piotr Zieliński,spelling,hard,/src/src/image/spelling/piotr-zielinski.png
+Écrit parfaitement le nom de ce joueur,Sergej Milinković-Savić ,spelling,hard,/src/src/image/spelling/sergej-milinkovic-savic.png
+Écrit parfaitement le nom de ce joueur,Álvaro Odriozola,spelling,hard,/src/src/image/spelling/alvaro-odriozola.png
+Écrit parfaitement le nom de ce joueur,Josip Brekalo ,spelling,hard,/src/src/image/spelling/josip-brekalo.png
+Écrit parfaitement le nom de ce joueur,Duje Čop,spelling,hard,/src/src/image/spelling/duje-cop.png
+Écrit parfaitement le nom de ce joueur,Mykola Shaparenko,spelling,hard,/src/src/image/spelling/mykola-shaparenko.png
+Écrit parfaitement le nom de ce joueur,Khvicha Kvaratskhelia,spelling,hard,/src/src/image/spelling/khvicha-kvaratskhelia.png
+Écrit parfaitement le nom de ce joueur,Dušan Tadić,spelling,hard,/src/src/image/spelling/dusan-tadic.png
+Écrit parfaitement le nom de ce joueur,Krzysztof Piątek,spelling,hard,/src/src/image/spelling/krzysztof-piatek.png
+Écrit parfaitement le nom de ce joueur,Wojciech Szczęsny,spelling,hard,/src/src/image/spelling/wojciech-szczesny.png
+Qui détient le record du meilleur buteur en une saison ?,Lionel Messi avec 50 buts en Liga (2011-2012),world-record,easy,
+Quel joueur a marqué le plus grand nombre de buts en une année civile,Lionel Messi avec 91 buts en 2012,world-record,easy,
+Le plus grand nombre de Ballons d'Or remportés  ?,Lionel Messi avec 8 Ballon d'Or,world-record,easy,
+Le plus grand nombre de titres de Ligue des champions ,Real Madrid avec 13 titres,world-record,easy,
+Le meilleur buteur en équipe de France,Thierry Henry (51 buts),world-record,easy,
+Le plus grand nombre de coup francs inscrits,Juninho (77 buts),world-record,easy,
+Le pays étant allé le plus de fois en finale de Coupe du monde,Allemagne (8 finales),world-record,easy,
+Le triplé le plus rapide ,Sadio Mané (2 minutes avec Southampton),world-record,easy,
+Le quintuplé le plus rapide,Robert Lewandowski (9 minutes),world-record,easy,
+Le plus grand record d'invincibilité ,"l'AC Milan, avec 58 matchs",world-record,easy,
+Le plus grand nombre de buts marqués en Coupe du Monde,Miroslav Klose avec 16 buts,world-record,medium,
+Le plus grand nombre de buts en carrière en club,Pelé (1280 buts),world-record,medium,
+Le triplé le plus rapide,Sadio Mané (2 minutes avec Southampton),world-record,medium,
+Le plus grand nombre de passes décisives en une saison de Premier League,Thierry Henry avec 20 assists (2002-2003),world-record,medium,
+Le plus grand nombre de Clean Sheets en Premier League,Petr Čech avec 202 Clean Sheets,world-record,medium,
+Le plus grand nombre de titres de Serie A remportés consécutivement, Juventus avec 9 titres ,world-record,medium,
+Joueur le plus jeune ayant remporté une Coupe du monde,Pelé (17 ans),world-record,medium,
+Joueur le plus rapide ,"Cristiano Ronaldo (38,6 km/h)",world-record,medium,
+Le joueur le plus titré,Dani Alves ( 40 trophées),world-record,medium,
+Joueur ayant gagné une Coupe du monde en tant que joueur ET entraîneur,"Mario Zagallo,  Franz Bekenbauer et Didier Deschamps",world-record,medium,
+Le plus grand nombre de buts marqués en une seule Coupe du Monde,Just Fontaine (13 buts),world-record,hard,
+Le plus grand nombre de sélections internationales,Ahmed Hassan d'Égypte avec 184 sélections,world-record,hard,
+Le plus grand nombre de buts en carrière en sélections nationales,Ali Daei avec 109 buts pour l'Iran,world-record,hard,
+Le plus grand nombre de titres de Ligue des champions ,Real Madrid avec 13 titres,world-record,hard,
+Le plus grand nombre de victoires consécutives en championnat national,Celtic FC avec 106 victoires (2016-2017 à 2018-2019),world-record,hard,
+Le record de longévité pour un joueur professionnel,Kazu Miura (56 ans),world-record,hard,
+Le match ayant rassemblé le plus de supporters de tous les temps,Brésil-Uruguay (173 850 spectateurs),world-record,hard,
+Le but le plus lointain ,"Tom King (96,01m avec Newport County)",world-record,hard,
+Le carton le plus rapide ,Matt McClure (3 secondes),world-record,hard,
+Le plus grand score de l'histoire du football,149 - 0 ( SO de l'Emyrne vs l'AS Adema) ,world-record,hard,
+Quel est le classement fifa de l'Argentine ? ,1,fifa-ranking,easy,
+Quel est le classement fifa de la France ?,2,fifa-ranking,easy,
+Quel est le classement fifa de l'Angleterre ?,3,fifa-ranking,easy,
+Quel est le classement fifa de la Belgique ?,4,fifa-ranking,easy,
+Quel est le classement fifa du Brésil ?,5,fifa-ranking,easy,
+Quel est le classement fifa de Saint-Marin ?,210,fifa-ranking,easy,
+Quel est le classement fifa du Portugal?,7,fifa-ranking,easy,
+Quel est le classement fifa de l'Espagne ?,8,fifa-ranking,easy,
+Quel est le classement fifa de l'Italie ?,9,fifa-ranking,easy,
+Quel est le classement fifa de la Croatie ?,10,fifa-ranking,easy,
+Quel est le classement fifa du Pays-bas ?,6,fifa-ranking,medium,
+Quel est le classement fifa des Etats-Unis ?,13,fifa-ranking,medium,
+Quel est le classement fifa de l'Allemagne ?,16,fifa-ranking,medium,
+Quel est le classement fifa de la Suisse ?,19,fifa-ranking,medium,
+Quel est le classement fifa du Danemark ?,21,fifa-ranking,medium,
+Quel est le classement fifa de l'Uruguay ?,11,fifa-ranking,medium,
+Quel est le classement fifa du Sénégal ?,17,fifa-ranking,medium,
+Quel est le classement fifa de l'Algérie ?,43,fifa-ranking,medium,
+Quel est le classement fifa de la Grèce ?,49,fifa-ranking,medium,
+Quel est le classement fifa du Cameroun ?,51,fifa-ranking,medium,
+Quel est le classement fifa de l'Arabie saoudite ?,53,fifa-ranking,hard,
+Quel est le classement fifa du Canada ?,50,fifa-ranking,hard,
+Quel est le classement fifa de la Slovaquie ?,48,fifa-ranking,hard,
+Quel est le classement fifa de la Suède ?,26,fifa-ranking,hard,
+Quel est le classement fifa de la Pologne ?,30,fifa-ranking,hard,
+Quel est le classement fifa de la Turquie ?,35,fifa-ranking,hard,
+Quel est le classement fifa de la Côte d'Ivoire ?,39,fifa-ranking,hard,
+Quel est le classement fifa du Maroc ?,12,fifa-ranking,hard,
+Quel est le classement fifa de la Colombie ?,14,fifa-ranking,hard,
+Quel est le classement fifa du Japon ?,18,fifa-ranking,hard,
+"À qui correspond le surnom ""La Pulga"" ?",Messi,nickname,easy,
+"À qui correspond le surnom ""CR7"" ?",Cristiano Ronaldo,nickname,easy,
+"À qui correspond le surnom ""Ney"" ?",Neymar,nickname,easy,
+"À qui correspond le surnom ""Kyky"" ?",Kylian Mbappé ,nickname,easy,
+"À qui correspond le surnom ""Red Devils"" ?",Manchester United,nickname,easy,
+"À qui correspond le surnom ""Grizou"" ?",Antoine Griezmann,nickname,easy,
+"À qui correspond le surnom ""KDB"" ?",Kevin De Bruyne,nickname,easy,
+"À qui correspond le surnom ""Spurs"" ?",Tottenham Hotspur,nickname,easy,
+"À qui correspond le surnom ""Super Mario"" ?",Mario Balotelli,nickname,easy,
+"À qui correspond le surnom ""Hurricane"" ?",Harry Kane,nickname,easy,
+"À qui correspond le surnom "" KB9"" ?",Karim Benzema,nickname,easy,
+"À qui correspond le surnom ""Maestro"" ?",Luka Modric,nickname,medium,
+"À qui correspond le surnom  ""The Terminator"" ?",Erling Haaland,nickname,medium,
+"À qui correspond le surnom ""Kun"" ?",Sergio Aguero,nickname,medium,
+"À qui correspond le surnom ""Bruno"" ?",Bruno Fernandes,nickname,medium,
+"À qui correspond le surnom ""La Pioche"" ?",Paul Pogba,nickname,medium,
+"À qui correspond le surnom "" Los Colchoneros"" ?",Atletico Madrid,nickname,medium,
+"À qui correspond le surnom "" Ibra"" ?",Zlatan Ibrahimović,nickname,medium,
+"À qui correspond le surnom "" Marqui"" ?",Marquinhos,nickname,medium,
+"À qui correspond le surnom "" Gigi"" ?",Gianluigi Buffon,nickname,medium,
+"À qui correspond le surnom ""Scarface"" ?",Franck Ribéry ,nickname,medium,
+"À qui correspond le surnom ""The Magician"" ?",Thiago Alcantara ,nickname,hard,
+"À qui correspond le surnom""Godzilla""  ?",Romelu Lukaku,nickname,hard,
+"À qui correspond le surnom ""Mengão "" ?",Flamengo,nickname,hard,
+"À qui correspond le surnom ""Die Roten "" ?",Bayern Munich,nickname,hard,
+"À qui correspond le surnom ""Rashy"" ?",Marcus Rashford,nickname,hard,
+"À qui correspond le surnom ""NG"" ?",N'Golo Kanté,nickname,hard,
+"À qui correspond le surnom ""The Welsh Wizard"" ?",Gareth Bale ,nickname,hard,
+"À qui correspond le surnom ""The Metronome"" ?",Toni Kroos ,nickname,hard,
+"À qui correspond le surnom ""The Giant"" ?",Thibaut Courtois,nickname,hard,
+"À qui correspond le surnom ""De Godenzonen "" ?",Ajax,nickname,hard,
+Quand la France a gagné sa première Coupe du Monde ?,1998,event,easy,
+Quand est la dernière victoire de l'Italie à l'Euro ?,2021,event,easy,
+Ou s'est déroulé la coupe du monde 2022 ?,Au Qatar,event,easy,
+Qui a gagné la Can 2023 ? ,La Côte d'Ivoire,event,easy,
+Combien de ballon d'or a Cristiano Ronaldo ?,5,event,easy,
+Combien de ballon d'or a Messi ?,8,event,easy,
+Qui est le meilleur buteur en une saison de Premier League ?,Erling haaland,event,easy,
+Quelle est la particularité du Trophée des Champions ?,Oppose le champion de France au vainqueur de la Coupe de France,event,easy,
+ Quel est le pays qui a remporté le plus de Coupes d'Afrique des nations ?,Égypte,event,easy,
+Qui a gagné la Coupe du Monde 2018 ?,La France,event,easy,
+Quel est le transfert le plus cher de l'histoire du football ?,222 millions pour Neymar,event,medium,
+Quel pays a organisé la toute première Coupe du Monde de football en 1930 ?,Uruguay,event,medium,
+ Quel club a remporté le plus de fois le Trophée des Champions ?,Paris Saint-Germain (10),event,medium,
+Quelle équipe a remporté l'Euro 2000 ?,La France,event,medium,
+Qui a été le meilleur buteur de la Coupe du Monde de football en 2018 ?,Harry Kane,event,medium,
+Quel est le club de football le plus ancien au monde ?,,event,medium,
+ Quelle équipe a remporté la Ligue des champions de l'UEFA en 2012 ?,Chelsea,event,medium,
+Quel joueur a remporté le Soulier d'Or en 2020 ?,Ciro Immobile,event,medium,
+Quelle équipe a remporté la Coupe du Monde féminine de la FIFA en 2019 ?,Les États-Unis,event,medium,
+Quelle club féminin a gagné le plus de Ligue des Champions ?,Lyon,event,medium,
+Qui a été le meilleur gardien de but de la Coupe du Monde de football en 2014 ?,Manuel Neuer,event,hard,
+" Qui a marqué le ""but du siècle"" lors de la Coupe du Monde de football en 1986 ?",Diego Maradona,event,hard,
+ Quelle est la footballeuse la plus titrée de l'histoire ?,Marta (Brésil),event,hard,
+Quel est le transfert féminin le plus cher de l'histoire du football ?,Racheal Kundananji (805 000 euros),event,hard,
+"Quel joueur a inventé le ""coup du scorpion"" ?",René Higuita,event,hard,
+En quelle année a été créée la CAF ?,1957,event,hard,
+Quel est le stade de football le plus ancien du monde ?,"Bramall Lane (Sheffield, Angleterre)",event,hard,
+Quelle équipe a remporté le plus de fois la Copa Libertadores ?,Independiente (7),event,hard,
+Quel est le club de football le plus ancien au monde ?,"Sheffield FC, fondé en 1857",event,hard,
+Quelle équipe a remporté la Copa Libertadores en 2020 ?,Palmeiras,event,hard,
+C'est la femme de quelle joueur ?,Georgina Rodríguez (Cristiano Ronaldo),recognize-wife,easy,/src/src/image/wife/georgina-rodriguez.jpeg
+C'est la femme de quelle joueur ?, Antonela Roccuzzo (Lionel Messi),recognize-wife,easy,/src/src/image/wife/antonela-roccuzzo.jpeg
+C'est la femme de quelle joueur ?,Shakira (Gerard Piqué),recognize-wife,easy,/src/src/image/wife/shakira.webp
+C'est la femme de quelle joueur ?,Anna Lewandowska (Robert Lewandowski),recognize-wife,hard,/src/src/image/wife/anna-lewandowska.jpeg
+C'est la femme de quelle joueur ?,Bruna Marquezine (Neymar),recognize-wife,hard,/src/src/image/wife/bruna-marquezine.jpeg
+C'est la femme de quelle joueur ?,Wanda Nara (Icardi),recognize-wife,hard,/src/src/image/wife/wanda-nara.webp
+C'est la femme de quelle joueur ?,Sethanie Taing (Draxler),recognize-wife,hard,/src/src/image/wife/sethanie-taing.webp
+C'est la femme de quelle joueur ?,Carol Cabrino (Marquinhos),recognize-wife,hard,/src/src/image/wife/carol-cabrino.webp
+C'est la femme de quelle joueur ?,Edurne Garcia (David de Gea),recognize-wife,hard,/src/src/image/wife/edurne-garcia.webp
+C'est la femme de quelle joueur ?,Jordan Ozunai (Karim Benzema),recognize-wife,hard,/src/src/image/wife/jordan-ozuna.jpeg
+C'est la femme de quelle joueur ?,Victoria Beckham (David Beckham),recognize-wife,hard,/src/src/image/wife/victoria-beckham.jpeg
+C'est la femme de quelle joueur ?,Daniela Ospina (James Rodríguez) ,recognize-wife,hard,/src/src/image/wife/daniela-ospina.jpeg
+C'est la femme de quelle joueur ?,Pamela Anderson (Adil Rami),recognize-wife,hard,/src/src/image/wife/pamela-anderson.webp
+C'est la femme de quelle joueur ?,Maria Zulay Salaues (Paul Pogba),recognize-wife,hard,/src/src/image/wife/maria-salaues.jpeg
+C'est la femme de quelle joueur ?,Pilar Rubio (Sergio Ramos),recognize-wife,hard,/src/src/image/wife/pilar-rubio.jpeg
+C'est la femme de quelle joueur ?,Marine Lloris (Hugo Lloris),recognize-wife,hard,/src/src/image/wife/marine-lloris.jpeg
+C'est la femme de quelle joueur ?,Erika Choperena (Antoine Griezmann),recognize-wife,hard,/src/src/image/wife/erika-choperena.jpeg
+C'est la femme de quelle joueur ?,Fanny Neguesha (Balotelli),recognize-wife,hard,/src/src/image/wife/fanny-neguesha.jpeg
+C'est la femme de quelle joueur ?,Helena Seger (Zlatan),recognize-wife,hard,/src/src/image/wife/helena-seger.jpeg
+C'est la femme de quelle joueur ?,Sara Carbonero (Iker Casillas),recognize-wife,hard,/src/src/image/wife/sara-carbonero.webp
+C'est la carrière de quel joueur ? ,Lionel Messi,career-player,easy,/src/src/image/career/messi-career.png
+C'est la carrière de quel joueur ? ,Cristiano Ronaldo,career-player,easy,/src/src/image/career/ronaldo-career.png
+C'est la carrière de quel joueur ? ,Neymar,career-player,easy,/src/src/image/career/neymar-career.png
+C'est la carrière de quel joueur ? ,Mohamed Salah,career-player,easy,/src/src/image/career/salah-career.png
+C'est la carrière de quel joueur ? ,Romelu Lukaku,career-player,easy,/src/src/image/career/lukaku-career.png
+C'est la carrière de quel joueur ? ,N'Golo Kanté,career-player,easy,/src/src/image/career/kante-career.png
+C'est la carrière de quel joueur ? ,Toni Kroos,career-player,easy,/src/src/image/career/kroos-career.png
+C'est la carrière de quel joueur ? ,Kingsley Coman,career-player,easy,/src/src/image/career/coman-career.png
+C'est la carrière de quel joueur ? ,Achraf Hakimi ,career-player,easy,/src/src/image/career/hakimi-career.png
+C'est la carrière de quel joueur ? ,João Félix,career-player,easy,/src/src/image/career/felix-career.png
+C'est la carrière de quel joueur ? ,Erling Haaland,career-player,easy,/src/src/image/career/haaland-career.png
+C'est la carrière de quel joueur ? ,Nuno Mendes,career-player,easy,/src/src/image/career/mendes-career.png
+C'est la carrière de quel joueur ? ,Jude Bellingham,career-player,easy,/src/src/image/career/bellingham-career.png
+C'est la carrière de quel joueur ? ,Milan Škriniar,career-player,easy,/src/src/image/career/skriniar-career.png
+C'est la carrière de quel joueur ? ,Zinedine Zidane,career-player,easy,/src/src/image/career/zidane-career.png
+C'est la carrière de quel joueur ? ,Kevin De Bruyne,career-player,medium,/src/src/image/career/debruyne-career.png
+C'est la carrière de quel joueur ? ,Bruno Fernandes,career-player,medium,/src/src/image/career/fernandes-career.png
+C'est la carrière de quel joueur ? ,Bruno Guimarães,career-player,medium,/src/src/image/career/guimaraes-career.png
+C'est la carrière de quel joueur ? ,João Cancelo,career-player,medium,/src/src/image/career/cancelo-career.png
+C'est la carrière de quel joueur ? ,Ruben Dias,career-player,medium,/src/src/image/career/dias-career.png
+C'est la carrière de quel joueur ? ,Alphonso Davies ,career-player,medium,/src/src/image/career/davies-career.png
+C'est la carrière de quel joueur ? ,Renato Sanches,career-player,medium,/src/src/image/career/sanches-career.png
+C'est la carrière de quel joueur ? ,Dayot Upamecano ,career-player,medium,/src/src/image/career/upamecano-career.png
+C'est la carrière de quel joueur ? ,Timo Werner,career-player,medium,/src/src/image/career/werner-career.png
+C'est la carrière de quel joueur ? ,Bernardo Silva,career-player,medium,/src/src/image/career/silva-career.png
+C'est la carrière de quel joueur ? ,Victor Osimhen,career-player,medium,/src/src/image/career/osimhen-career.png
+C'est la carrière de quel joueur ? ,Anthony Martial,career-player,medium,/src/src/image/career/martial-career.png
+C'est la carrière de quel joueur ? ,Danilo Pereira,career-player,medium,/src/src/image/career/danilo-career.png
+C'est la carrière de quel joueur ? ,Robin van Persie,career-player,medium,/src/src/image/career/van-persie-career.png
+C'est la carrière de quel joueur ? ,Wayne Rooney,career-player,medium,/src/src/image/career/rooney-career.png
+C'est la carrière de quel joueur ? ,Pedro Neto,career-player,hard,/src/src/image/career/neto-career.png
+C'est la carrière de quel joueur ? ,Leon Goretzka,career-player,hard,/src/src/image/career/goretzka-career.png
+C'est la carrière de quel joueur ? ,Virgil van Dijk,career-player,hard,/src/src/image/career/van-dijk-career.png
+C'est la carrière de quel joueur ? ,Youri Tielemans,career-player,hard,/src/src/image/career/tielemans-career.png
+C'est la carrière de quel joueur ? ,Weston McKennie,career-player,hard,/src/src/image/career/mckennie-career.png
+C'est la carrière de quel joueur ? ,Ollie Watkins,career-player,hard,/src/src/image/career/watkins-career.png
+C'est la carrière de quel joueur ? ,Sergiño Dest,career-player,hard,/src/src/image/career/dest-career.png
+C'est la carrière de quel joueur ? ,Youssef En-Nesyri,career-player,hard,/src/src/image/career/en-nesyri-career.png
+C'est la carrière de quel joueur ? ,Serge Gnabry,career-player,hard,/src/src/image/career/gnabry-career.png
+C'est la carrière de quel joueur ? ,Robert Pires,career-player,hard,/src/src/image/career/pires-career.png
+C'est la carrière de quel joueur ? ,Andrea Pirlo,career-player,hard,/src/src/image/career/pirlo-career.png
+C'est la carrière de quel joueur ? ,Ilaix Moriba,career-player,hard,/src/src/image/career/moriba-career.png
+C'est la carrière de quel joueur ? ,Diogo Jota,career-player,hard,/src/src/image/career/jota-career.png
+C'est la carrière de quel joueur ? ,Sacha Boey,career-player,hard,/src/src/image/career/boey-career.png
+ À quelle minute ce but a-t-il été marqué ?,"Diego Maradona - ""Le but du siècle"" (1986) - Minute : 55'",minutes,hard,/src/src/video/minutes/but-du-siecle.mp4
+ À quelle minute ce but a-t-il été marqué ?,109e Minutes (Eder),minutes,hard,/src/src/video/minutes/portugal.mp4
+ À quelle minute ce but a-t-il été marqué ?,81e Minutes (Mbappe),minutes,hard,/src/src/video/minutes/france-argentine.mp4
+ À quelle minute ce but a-t-il été marqué ?,64e Minutes (Ronaldo),minutes,hard,/src/src/video/minutes/ronaldo-reprise.mp4
+ À quelle minute ce but a-t-il été marqué ?,93e Minutes (Cavani),minutes,hard,/src/src/video/minutes/but-cavani.mp4
+ À quelle minute ce but a-t-il été marqué ?,64e Minutes (Bale),minutes,hard,/src/src/video/minutes/bale.mp4
+ À quelle minute ce but a-t-il été marqué ?,87e Minutes (Ozil),minutes,hard,/src/src/video/minutes/ozil.mp4
+ À quelle minute ce but a-t-il été marqué ?,80e Minutes (Messi),minutes,hard,/src/src/video/minutes/messi.mp4
+ À quelle minute ce but a-t-il été marqué ?,45e Minutes (Ronaldo),minutes,hard,/src/src/video/minutes/ronaldo-tete.mp4
+ À quelle minute ce but a-t-il été marqué ?,69e Minutes (Giroud),minutes,hard,/src/src/video/minutes/giroud.mp4
+ À quelle minute ce but a-t-il été marqué ?,60e Minutes (Lewandowski),minutes,hard,/src/src/video/minutes/lewandowski.mp4
+ À quelle minute ce but a-t-il été marqué ?,57e Minutes (Pavard),minutes,hard,/src/src/video/minutes/pavard.mp4
+ À quelle minute ce but a-t-il été marqué ?,59e Minutes (Coman),minutes,hard,/src/src/video/minutes/coman.mp4
+ À quelle minute ce but a-t-il été marqué ?,94e Minutes (Aguero),minutes,hard,/src/src/video/minutes/aguero.mp4
+ À quelle minute ce but a-t-il été marqué ?,57e Minutes (Leao),minutes,hard,/src/src/video/minutes/leao.mp4
+Trouve l'équipe ,Paris-Saint-Germains,composition,easy,/src/src/image/composition/paris-saint-germains.png
+Trouve l'équipe ,Real Madrid,composition,easy,/src/src/image/composition/real-madrid.png
+Trouve l'équipe ,Barcelonne,composition,easy,/src/src/image/composition/paris-saint-germains.png
+Trouve l'équipe ,Manchester City,composition,easy,/src/src/image/composition/barcelone.png
+Trouve l'équipe ,Liverpool,composition,easy,/src/src/image/composition/manchester-city.png
+Trouve l'équipe ,Manchester United,composition,easy,/src/src/image/composition/liverpool.png
+Trouve l'équipe ,Juventus,composition,easy,/src/src/image/composition/manchester-united.png
+Trouve l'équipe ,Inter Milan,composition,easy,/src/src/image/composition/juventus.png
+Trouve l'équipe ,Ac Milan,composition,easy,/src/src/image/composition/inter-milan.png
+Trouve l'équipe ,Arsenal,composition,easy,/src/src/image/composition/ac-milan.png
+Trouve l'équipe ,Chelsea,composition,medium,/src/src/image/composition/arsenal.png
+Trouve l'équipe ,Inter Miami,composition,medium,/src/src/image/composition/chelsea.png
+Trouve l'équipe ,Naples,composition,medium,/src/src/image/composition/inter-miami.png
+Trouve l'équipe ,Aston Villa,composition,medium,/src/src/image/composition/aston-villa.png
+Trouve l'équipe ,Galatasaray,composition,medium,/src/src/image/composition/galatasaray.png
+Trouve l'équipe ,Lyon,composition,medium,/src/src/image/composition/lyon.png
