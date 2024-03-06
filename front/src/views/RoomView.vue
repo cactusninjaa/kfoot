@@ -22,10 +22,8 @@
         <p>{{ user.pseudo }}</p>
         <img :src=user.avatar alt="">
     </div>
-    <!-- <div>
-        <p>{{ pseudo }}</p>
-        <img :src="avatar" alt="Avatar" />
-    </div> -->
+    <button>Partager le lien</button>
+    <button @click="this.$router.push('/question')">Lancer la partie</button>
 </template>
 
 
