@@ -9,10 +9,13 @@ export default {
      answer : null,
      link : null,
      time : 10,
+     nbQuestion : 0,
+     correct : false,
+     playerPoint : 0,
     };
   },
  mounted() {
-  window.onload = this.getQuestion(); this.startTimer();
+  window.onload =this.startTimer(), this.getQuestion();
   },
   methods : {
     getRandomInt(max){
@@ -21,12 +24,13 @@ export default {
     startTimer(){
       setInterval(() => {
         if (this.time === 0) {
+          this.sendPoint();
           this.time = 10;
           this.getQuestion();
         } else {
           this.time--;
         }
-      }, 1000);
+      }, 1000);  
     },
     getQuestion(){
       fetch('http://localhost:3000/question')
@@ -37,8 +41,25 @@ export default {
           this.answer = data[random].answer;
           this.link = data[random].link;
           this.type = data[random].type;
+          this.nbQuestion++;
+          this.correct = false;
         });
+      if (this.nbQuestion === 20) {
+        this.$router.push('/');
+      }
+    },
+    buttonCorrection(){
+      this.correct =! this.correct;
+      console.log(this.correct);
+      return this.correct;
+    },
+    sendPoint(){
+      console.log("test")
+      if(this.buttonCorrection() == false){
+        this.playerPoint++;
+      }
     }
+
   },
 };
 </script>
@@ -46,6 +67,9 @@ export default {
 <template>
   <div>
    <p> Timer : {{ time }}</p>
+   <p> {{ nbQuestion }}</p>
+    <p>Points : {{ playerPoint }}</p>
+
     <div class="card">
       <div v-if="this.link" class="img">
         <img :src="this.link" alt="image">
@@ -54,6 +78,11 @@ export default {
         <audio controls>
           <source :src="this.link" type="audio/mpeg">
         </audio>
+      </div>
+      <div v-else-if="this.type == 'video' " class="video">
+        <video>
+          <source :src="this.link" type="video/mp4">
+        </video>
       </div>
 
       <div class="card-header">
@@ -64,6 +93,9 @@ export default {
       </div>
       <div class="input">
         <input type="text">
+      </div>
+      <div>
+        <button @click="buttonCorrection">{{ correct }}</button>
       </div>
     </div>
     
