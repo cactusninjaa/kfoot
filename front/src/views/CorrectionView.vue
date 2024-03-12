@@ -13,12 +13,13 @@ export default {
             questions : {
                 question : null,
                 answer : null,
-                link : null,
+                link : '',
                 type : null,
                 difficulty : null,
             },
             correct : false,
             nbQuestion : 0,
+            currentPlayer : 0,
         };
     },
     setup() {
@@ -44,14 +45,17 @@ export default {
         },
         sendPoint(){
             if(this.buttonCorrection() == false){
-                this.login[0].score += 1;
+                this.login[this.currentPlayer].score += 1;
             }
         },
         nextQuestion(){
             this.nbQuestion++;
             this.sendPoint();
             this.correct = false;
-            console.log(this.nbQuestion);
+            this.currentPlayer = 0;
+        },
+        nextPlayer(){
+            this.currentPlayer++;
         }
 
     }
@@ -63,22 +67,27 @@ export default {
 <template>
 
 <h1>Correction</h1>
-<h2>Score : {{  this.login[0].score }}</h2>
-<h3> Question : {{ nbQuestion }}</h3>
+<h2>Score : {{  this.login[this.currentPlayer].score }}</h2>
+<h3> Question : {{ nbQuestion + 1 }}</h3>
+<h4> Pseudo : {{  this.login[this.currentPlayer].pseudo }}</h4>
 
 <div v-if="this.nbQuestion < this.listQuestions.length"> 
     <CorrectionQuestion :questions="this.listQuestions[this.nbQuestion]"></CorrectionQuestion>   
     <div class="answerPlayer">
         <h4>
-            Réponse : {{ this.login[0].response[this.nbQuestion] }}
+            Réponse : {{ this.login[this.currentPlayer].response[this.nbQuestion] }}
         </h4>
     </div>
 
     <div class="buttons">
         <button @click="buttonCorrection()">{{ correct }}</button>
-        <button class="Next" @click="nextQuestion()">Suivant</button>
+        <div class="buttonNext">
+            <button class="Next" @click="nextQuestion()" v-if="this.currentPlayer === this.login.length - 1">Suivant</button>
+            <button v-else class="Next" @click="nextPlayer()">Suivant</button>
+         </div>
     </div>
 </div>
+
 <div v-else>
     <h1>Terminé</h1>
 </div>

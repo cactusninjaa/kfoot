@@ -13,15 +13,41 @@ export default {
 
 
 <template>
-        <img :src="questions.link">
+    <div class="illustration" v-if="questions.link != ''">
+
+        <div v-if="questions.type == 'song' " class="song">
+            <audio controls>
+                <source :src="questions.link" type="audio/mpeg">
+            </audio>
+        </div>
+
+        <div v-else-if="questions.type == 'minutes' " class="video">
+            <video controls>
+                <source :src="questions.link" type="video/mp4">
+            </video>
+        </div>
+
+        <div v-else class="img">
+            <img :src="questions.link" alt="image">
+        </div>
+
+        <div class="question-answer">
+            <h1>{{ questions.question }}</h1>
+            <h2>{{ questions.answer }}</h2>
+        </div>
+    </div>
+
+    <div v-else>
         <h1>{{ questions.question }}</h1>
         <h2>{{ questions.answer }}</h2>
+    </div>
 
-        <div class="card-difficulty">
-            <div v-if="questions.difficulty === 'easy'" class="difficulty-easy"></div>
-            <div v-if="questions.difficulty === 'medium'" class="difficulty-medium"></div>
-            <div v-if="questions.difficulty === 'hard'" class="difficulty-hard"></div>
-      </div>
+
+    <div class="card-difficulty">
+        <div v-if="questions.difficulty === 'easy'" class="difficulty-easy"></div>
+        <div v-if="questions.difficulty === 'medium'" class="difficulty-medium"></div>
+        <div v-if="questions.difficulty === 'hard'" class="difficulty-hard"></div>
+    </div>
 
 </template>
 

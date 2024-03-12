@@ -14,34 +14,39 @@ export default {
 
 <template>
 
+<div class="illustration" v-if="questions.type != ''">
+  <div v-if="questions.type ==='song || spelling'">
+    <audio controls>
+      <source :src="questions.link" type="audio/mpeg">
+    </audio>
+  </div>
+  
+  <div v-else-if="questions.type == 'minutes' " class="video">
+    <video controls>
+      <source :src="questions.link" type="video/mp4">
+    </video>
+  </div>
 
-<div v-if="questions.link" class="img">
-        <img :src="questions.link" alt="image">
-      </div>
-      <div v-else-if="questions.type == 'song' " class="song">
-        <audio controls>
-          <source :src="questions.link" type="audio/mpeg">
-        </audio>
-      </div>
-      <div v-else-if="questions.type == 'video' " class="video">
-        <video>
-          <source :src="questions.link" type="video/mp4">
-        </video>
-      </div>
+  <div v-else class="img">
+    <img :src="questions.link" alt="">
+  </div>
+</div>
 
-      <div class="card-header">
-        <h2>{{ questions.question }}</h2>
-      </div>
-      <div class="card-difficulty">
-        <div v-if="questions.difficulty === 'easy'" class="difficulty-easy"></div>
-        <div v-if="questions.difficulty === 'medium'" class="difficulty-medium"></div>
-        <div v-if="questions.difficulty === 'hard'" class="difficulty-hard"></div>
 
-      </div>
+  <div class="card-header">
+    <h2>{{ questions.question }}</h2>
+  </div>
+  <div class="card-difficulty">
+    <div v-if="questions.difficulty === 'easy'" class="difficulty-easy"></div>
+    <div v-if="questions.difficulty === 'medium'" class="difficulty-medium"></div>
+    <div v-if="questions.difficulty === 'hard'" class="difficulty-hard"></div>
+
+  </div>
 
       <!-- <div class="card-body">
         <p>{{ questions.answer }}</p>
       </div> -->
+
 </template>
 
 
