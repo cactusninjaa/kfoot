@@ -32,7 +32,45 @@ export default {
       <div class="card-header">
         <h2>{{ questions.question }}</h2>
       </div>
-      <div class="card-body">
-        <p>{{ questions.answer }}</p>
+      <div class="card-difficulty">
+        <div v-if="questions.difficulty === 'easy'" class="difficulty-easy"></div>
+        <div v-if="questions.difficulty === 'medium'" class="difficulty-medium"></div>
+        <div v-if="questions.difficulty === 'hard'" class="difficulty-hard"></div>
+
       </div>
+
+      <!-- <div class="card-body">
+        <p>{{ questions.answer }}</p>
+      </div> -->
 </template>
+
+
+<style>
+
+.card-difficulty {
+  display: flex;
+  justify-content: center;
+  margin-top: 10px;
+}
+
+.card-difficulty div {
+  width: 20px;
+  height: 20px;
+  border-radius: 50%;
+  margin: 0 5px;
+}
+
+.difficulty-easy {
+  background-color: green;
+}
+
+.difficulty-medium {
+  background-color: orange;
+}
+
+.difficulty-hard {
+  background-color: red;
+}
+
+
+</style>
