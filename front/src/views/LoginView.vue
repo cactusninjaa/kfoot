@@ -9,7 +9,9 @@
             return {
                 formUser: {
                     pseudo: '',
-                    avatar: 'src/src/image/avatar/avatar0.jpg'
+                    avatar: 'src/src/image/avatar/avatar0.jpg',
+                    response : '',
+                    score : 0,
                 }
             };
         },
@@ -31,7 +33,9 @@
                 this.loginStore.addUser(this.formUser);
                 this.formUser = {
                     pseudo: '',
-                    avatar: 'src/src/image/avatar/avatar0.jpg'
+                    avatar: 'src/src/image/avatar/avatar0.jpg',
+                    response : '',
+                    scrore : 0,
                 }
                 this.$router.push('/room');
             }

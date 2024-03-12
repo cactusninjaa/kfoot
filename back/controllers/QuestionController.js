@@ -2,6 +2,7 @@ import { PrismaClient } from "@prisma/client";
 
 const prisma = new PrismaClient();
 
+
 const getQuestions = (req, res) => {
     prisma.question.findMany()
     .then((data) => res.json(data))
@@ -9,9 +10,11 @@ const getQuestions = (req, res) => {
 }
 
 const getQuestion = (req, res) => {
+
+    let id = Number(req.params.id)
     prisma.question.findUnique({
         where: {
-            id : Number(req.params.id)
+            id : id
         }
     })
 
