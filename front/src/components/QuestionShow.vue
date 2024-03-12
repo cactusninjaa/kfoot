@@ -15,7 +15,7 @@ export default {
 <template>
 
 <div class="illustration" v-if="questions.type != ''">
-  <div v-if="questions.type ==='song || spelling'">
+  <div v-if="questions.type ==='song'">
     <audio controls>
       <source :src="questions.link" type="audio/mpeg">
     </audio>
