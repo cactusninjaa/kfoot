@@ -56,6 +56,7 @@ export default {
         },
         nextPlayer(){
             this.currentPlayer++;
+            this.correct = false;
         }
 
     }
