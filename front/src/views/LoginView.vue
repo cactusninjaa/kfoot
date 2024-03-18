@@ -1,7 +1,9 @@
 <script>
     import  Input  from "@/components/Input.vue";
+    import Socket from "@/components/Socket.vue";
     import Slider from "@/components/Slider.vue";
     import { useLoginStore } from '@/stores/login';
+
 
     export default {
         name: 'LoginView',
@@ -23,7 +25,8 @@
         },
         components: {
             Input,
-            Slider
+            Slider,
+            Socket
         },
         methods: {
             updateAvatar(avatarSrc) {
@@ -46,6 +49,7 @@
 <template>
     <div>
         <p>logo</p>
+        <Socket/>
         <Slider @update="updateAvatar"/>
         <form @submit.prevent="addUser()">
             <input type="text" v-model="formUser.pseudo"/>
